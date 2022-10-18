@@ -7,15 +7,15 @@
             "id": 358,
             "url": "https://lldev.thespacedevs.com/2.2.0/event/358/?format=json",
             "slug": "progress-ms-21-docking",
-            "name": "Progress MS-21 Docking",
+            "name": "Renix le Moderateur",
             "updates": [],
             "type": {
                 "id": 2,
                 "name": "Docking"
             },
-            "description": "The Progress MS-21 spacecraft is scheduled to autonomously dock to the Poisk module of the ISS.",
+            "description": "Je fait aussi un test sur les evenements a venir et avec 2 minutes de delay.",
             "webcast_live": false,
-            "location": "International Space Station",
+            "location": "Sur Terre et sur Youtube",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-21__image_20210922174325.jpg",
