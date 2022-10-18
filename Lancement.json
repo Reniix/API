@@ -16,13 +16,13 @@
                 "slug": "spacex"
             },
             "vehicle": {
-                "id": 1,
+                "id": 69,
                 "name": "Falcon 9",
                 "company_id": 1,
                 "slug": "falcon-9"
             },
             "pad": {
-                "id": 3,
+                "id": 80,
                 "name": "SLC-40",
                 "location": {
                     "id": 62,
@@ -41,7 +41,7 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-64 (4-36) mission on Thursday, October 20, 2022 at 2:50 PM (UTC).",
+            "launch_description": "Je fait un test avec le compte a rebours et la frequence de mise a jour par mInutes",
             "win_open": "2022-10-20T14:50Z",
             "t0": null,
             "win_close": null,
