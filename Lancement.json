@@ -2,79 +2,9 @@
     "valid_auth": false,
     "count": 5,
     "limit": 5,
-    "total": 123,
+    "total": 122,
     "last_page": 25,
     "result": [
-        {
-            "id": 3221,
-            "cospar_id": "",
-            "sort_date": "1666277400",
-            "name": "Starlink-64 (4-36)",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
-            },
-            "pad": {
-                "id": 3,
-                "name": "SLC-40",
-                "location": {
-                    "id": 62,
-                    "name": "Cape Canaveral SFS",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "cape-canaveral-sfs"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4948,
-                    "name": "Starlink-64 (4-36)",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-64 (4-36) mission on Thursday, October 20, 2022 at 2:50 PM (UTC).",
-            "win_open": "2022-10-20T14:50Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Oct 20",
-            "tags": [
-                {
-                    "id": 105,
-                    "text": "B1062"
-                },
-                {
-                    "id": 92,
-                    "text": "Series: SpaceX Starlink"
-                }
-            ],
-            "slug": "starlink-4-36",
-            "weather_summary": "Partly Cloudy Temp: 75.5F Wind: 11.56mph ",
-            "weather_temp": 75.5,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 11.56,
-            "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-10-19T00:00:16+00:00",
-            "quicktext": "Falcon 9 - Starlink-64 (4-36) - Thu Oct 20, 2022 14:50:00 UTC (L-1 days, 06:48:54) - https://rocketlaunch.live/launch/starlink-4-36 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-18T01:38:47+00:00"
-        },
         {
             "id": 2827,
             "cospar_id": "",
@@ -129,13 +59,13 @@
                 }
             ],
             "slug": "oneweb-14",
-            "weather_summary": "Humid and Overcast Temp: 79.78F Wind: 7.86mph ",
-            "weather_temp": 79.78,
+            "weather_summary": "Humid and Overcast Temp: 81.02F Wind: 10.86mph ",
+            "weather_temp": 81.02,
             "weather_condition": "Humid and Overcast",
-            "weather_wind_mph": 7.86,
+            "weather_wind_mph": 10.86,
             "weather_icon": "wi-cloudy",
-            "weather_updated": "2022-10-19T00:00:16+00:00",
-            "quicktext": "GSLV-III - OneWeb-14 - Sat Oct 22, 2022 18:37:00 UTC (L-3 days, 10:35:54) - https://rocketlaunch.live/launch/oneweb-14 for info/stream",
+            "weather_updated": "2022-10-21T00:00:16+00:00",
+            "quicktext": "GSLV-III - OneWeb-14 - Sat Oct 22, 2022 18:37:00 UTC (L-1 days, 09:18:59) - https://rocketlaunch.live/launch/oneweb-14 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -195,13 +125,13 @@
                 }
             ],
             "slug": "progress-ms-21",
-            "weather_summary": "Mostly Cloudy Temp: 42.09F Wind: 7.35mph ",
-            "weather_temp": 42.09,
-            "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 7.35,
-            "weather_icon": "wi-night-alt-cloudy",
-            "weather_updated": "2022-10-19T00:00:17+00:00",
-            "quicktext": "Soyuz-2 - Progress MS-21 - Wed Oct 26, 2022 00:19:00 UTC (L-6 days, 16:17:54) - https://rocketlaunch.live/launch/progress-ms-21 for info/stream",
+            "weather_summary": "Overcast Temp: 43.91F Wind: 9.75mph ",
+            "weather_temp": 43.91,
+            "weather_condition": "Overcast",
+            "weather_wind_mph": 9.75,
+            "weather_icon": "wi-cloudy",
+            "weather_updated": "2022-10-21T00:00:16+00:00",
+            "quicktext": "Soyuz-2 - Progress MS-21 - Wed Oct 26, 2022 00:19:00 UTC (L-4 days, 15:00:59) - https://rocketlaunch.live/launch/progress-ms-21 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -365,12 +295,78 @@
             "weather_condition": "Partly Cloudy",
             "weather_wind_mph": 5.51,
             "weather_icon": "wi-night-alt-cloudy",
-            "weather_updated": "2022-10-19T00:00:17+00:00",
-            "quicktext": "Falcon Heavy - USSF-44 - Mon Oct 31, 2022 10:44:00 UTC (L-12 days, 02:42:54) - https://rocketlaunch.live/launch/afspc-44 for info/stream",
+            "weather_updated": "2022-10-21T00:00:17+00:00",
+            "quicktext": "Falcon Heavy - USSF-44 - Mon Oct 31, 2022 10:44:00 UTC (L-10 days, 01:25:59) - https://rocketlaunch.live/launch/afspc-44 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-10-16T00:57:17+00:00"
+        },
+        {
+            "id": 228,
+            "cospar_id": "",
+            "sort_date": "1667260797",
+            "name": "Oceansat-3 (EOS-6)",
+            "provider": {
+                "id": 18,
+                "name": "ISRO",
+                "slug": "isro"
+            },
+            "vehicle": {
+                "id": 21,
+                "name": "PSLV",
+                "company_id": 18,
+                "slug": "pslv"
+            },
+            "pad": {
+                "id": 7,
+                "name": "FLP",
+                "location": {
+                    "id": 67,
+                    "name": "Satish Dhawan Space Centre",
+                    "state": null,
+                    "statename": null,
+                    "country": "India",
+                    "slug": "satish-dhawan-space-centre"
+                }
+            },
+            "missions": [
+                {
+                    "id": 220,
+                    "name": "Oceansat-3 (EOS-6)",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "An ISRO PSLV rocket will launch the Oceansat-3 (EOS-6) mission. The launch date is currently targeted for October, 2022 (UTC).",
+            "win_open": null,
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": 10,
+                "day": null,
+                "year": 2022,
+                "quarter": null
+            },
+            "date_str": "Oct 2022",
+            "tags": [
+                {
+                    "id": 25,
+                    "text": "Earth Observation Satellite"
+                }
+            ],
+            "slug": "oceansat-3",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "PSLV - Oceansat-3 (EOS-6) - Oct 2022 (estimated) - https://rocketlaunch.live/launch/oceansat-3 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-09-20T01:27:10+00:00"
         }
     ]
 }
