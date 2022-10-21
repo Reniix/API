@@ -56,6 +56,10 @@
                 {
                     "id": 93,
                     "text": "Series: OneWeb"
+                },
+                {
+                    "id": 93,
+                    "text": "Series: OneWeb"
                 }
             ],
             "slug": "oneweb-14",
@@ -122,6 +126,10 @@
                 {
                     "id": 12,
                     "text": "ISS Cargo"
+                },
+                {
+                    "id": 93,
+                    "text": "Series: OneWeb"
                 }
             ],
             "slug": "progress-ms-21",
