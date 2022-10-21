@@ -16,7 +16,7 @@
                 "slug": "isro"
             },
             "vehicle": {
-                "id": 34,
+                "id": 19,
                 "name": "GSLV-III",
                 "company_id": 18,
                 "slug": "gslv-iii"
@@ -55,6 +55,10 @@
             "tags": [
                 {
                     "id": 93,
+                    "text": "Series: OneWeb"
+                },
+                {
+                    "id": 9,
                     "text": "Series: OneWeb"
                 }
             ],
