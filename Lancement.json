@@ -1,346 +1,351 @@
 {
-    "valid_auth": false,
-    "count": 5,
-    "limit": 5,
-    "total": 121,
-    "last_page": 25,
-    "result": [
-        {
-            "id": 3243,
-            "cospar_id": "",
-            "sort_date": "1667201700",
-            "name": "Mengtian",
-            "provider": {
-                "id": 41,
-                "name": "China",
-                "slug": "china"
-            },
-            "vehicle": {
-                "id": 57,
-                "name": "Long March 5B",
-                "company_id": 41,
-                "slug": "long-march-5b"
-            },
-            "pad": {
-                "id": 51,
-                "name": "LP-101",
-                "location": {
-                    "id": 45,
-                    "name": "Wenchang Satellite Launch Center",
-                    "state": null,
-                    "statename": null,
-                    "country": "China",
-                    "slug": "wenchang-satellite-launch-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4978,
-                    "name": "Mengtian",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A China Long March 5B rocket will launch the Mengtian mission on Monday, October 31, 2022 at 7:35 AM (UTC).",
-            "win_open": "2022-10-31T07:35Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Oct 31",
-            "tags": [],
-            "slug": "mengtian",
-            "weather_summary": "Mostly Cloudy Temp: 79.77F Wind: 17.95mph ",
-            "weather_temp": 79.77,
-            "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 17.95,
-            "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-10-29T00:00:15+00:00",
-            "quicktext": "Long March 5B - Mengtian - Mon Oct 31, 2022 07:35:00 UTC (L-1 days, 21:42:25) - https://rocketlaunch.live/launch/mengtian for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-25T12:21:22+00:00"
-        },
-        {
-            "id": 323,
-            "cospar_id": "",
-            "sort_date": "1667294700",
-            "name": "JPSS-2",
-            "provider": {
-                "id": 3,
-                "name": "United Launch Alliance (ULA)",
-                "slug": "united-launch-alliance-ula"
-            },
-            "vehicle": {
-                "id": 3,
-                "name": "Atlas V",
-                "company_id": 3,
-                "slug": "atlas-v"
-            },
-            "pad": {
-                "id": 22,
-                "name": "SLC-3E",
-                "location": {
-                    "id": 60,
-                    "name": "Vandenberg SFB",
-                    "state": "CA",
-                    "statename": "California",
-                    "country": "United States",
-                    "slug": "vandenberg-sfb"
-                }
-            },
-            "missions": [
-                {
-                    "id": 309,
-                    "name": "JPSS-2",
-                    "description": null
-                },
-                {
-                    "id": 4188,
-                    "name": "LOFTID",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A United Launch Alliance (ULA) Atlas V rocket will launch the JPSS-2 mission on Tuesday, November 1, 2022 at 9:25 AM (UTC).",
-            "win_open": "2022-11-01T09:25Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 01",
-            "tags": [
-                {
-                    "id": 25,
-                    "text": "Earth Observation Satellite"
-                },
-                {
-                    "id": 29,
-                    "text": "Polar Orbit"
-                }
-            ],
-            "slug": "jpss-2",
-            "weather_summary": "Overcast Temp: 54.48F Wind: 9.78mph ",
-            "weather_temp": 54.48,
-            "weather_condition": "Overcast",
-            "weather_wind_mph": 9.78,
-            "weather_icon": "wi-cloudy",
-            "weather_updated": "2022-10-29T00:00:15+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Tue Nov 01, 2022 09:25:00 UTC (L-2 days, 23:32:25) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-25T21:49:39+00:00"
-        },
-        {
-            "id": 465,
-            "cospar_id": "",
-            "sort_date": "1667310000",
-            "name": "USSF-44",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 7,
-                "name": "Falcon Heavy",
-                "company_id": 1,
-                "slug": "falcon-heavy"
-            },
-            "pad": {
-                "id": 2,
-                "name": "LC-39A",
-                "location": {
-                    "id": 61,
-                    "name": "Kennedy Space Center",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "kennedy-space-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 448,
-                    "name": "USSF-44",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon Heavy rocket will launch the USSF-44 mission on Tuesday, November 1, 2022 at 1:40 PM (UTC).",
-            "win_open": "2022-11-01T13:40Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 01",
-            "tags": [
-                {
-                    "id": 114,
-                    "text": "B1064"
-                },
-                {
-                    "id": 115,
-                    "text": "B1065"
-                },
-                {
-                    "id": 116,
-                    "text": "B1066"
-                }
-            ],
-            "slug": "afspc-44",
-            "weather_summary": "Humid Temp: 80.99F Wind: 4.53mph ",
-            "weather_temp": 80.99,
-            "weather_condition": "Humid",
-            "weather_wind_mph": 4.53,
-            "weather_icon": "wi-day-sunny",
-            "weather_updated": "2022-10-29T00:00:15+00:00",
-            "quicktext": "Falcon Heavy - USSF-44 - Tue Nov 01, 2022 13:40:00 UTC (L-3 days, 03:47:25) - https://rocketlaunch.live/launch/afspc-44 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-27T22:11:55+00:00"
-        },
-        {
-            "id": 3223,
-            "cospar_id": "",
-            "sort_date": "1667445900",
-            "name": "Hotbird-13G",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
-            },
-            "pad": {
-                "id": 3,
-                "name": "SLC-40",
-                "location": {
-                    "id": 62,
-                    "name": "Cape Canaveral SFS",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "cape-canaveral-sfs"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4950,
-                    "name": "Hotbird-13G",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Hotbird-13G mission on Thursday, November 3, 2022 at 3:25 AM (UTC).",
-            "win_open": "2022-11-03T03:25Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 03",
-            "tags": [],
-            "slug": "hotbird-13g",
-            "weather_summary": "Humid Temp: 73.19F Wind: 8.55mph ",
-            "weather_temp": 73.19,
-            "weather_condition": "Humid",
-            "weather_wind_mph": 8.55,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-10-29T00:00:16+00:00",
-            "quicktext": "Falcon 9 - Hotbird-13G - Thu Nov 03, 2022 03:25:00 UTC (L-4 days, 17:32:25) - https://rocketlaunch.live/launch/hotbird-13g for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-26T10:08:26+00:00"
-        },
-        {
-            "id": 2822,
-            "cospar_id": "",
-            "sort_date": "1667731800",
-            "name": "CRS2 NG-18 (Cygnus)",
-            "provider": {
-                "id": 88,
-                "name": "Northrop Grumman",
-                "slug": "northrop-grumman"
-            },
-            "vehicle": {
-                "id": 5,
-                "name": "Antares",
-                "company_id": 88,
-                "slug": "antares"
-            },
-            "pad": {
-                "id": 6,
-                "name": "Pad 0A",
-                "location": {
-                    "id": 66,
-                    "name": "Mid-Atlantic Regional Spaceport (Wallops Island)",
-                    "state": "VA",
-                    "statename": "Virginia",
-                    "country": "United States",
-                    "slug": "mid-atlantic-regional-spaceport-wallops-island"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4385,
-                    "name": "CRS2 NG-18 (Cygnus)",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A Northrop Grumman Antares rocket will launch the CRS2 NG-18 (Cygnus) mission on Sunday, November 6, 2022 at 10:50 AM (UTC).",
-            "win_open": "2022-11-06T10:50Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 06",
-            "tags": [
-                {
-                    "id": 12,
-                    "text": "ISS Cargo"
-                }
-            ],
-            "slug": "crs2-ng-18",
-            "weather_summary": "Overcast Temp: 62.5F Wind: 13.44mph ",
-            "weather_temp": 62.5,
-            "weather_condition": "Overcast",
-            "weather_wind_mph": 13.44,
-            "weather_icon": "wi-cloudy",
-            "weather_updated": "2022-10-29T00:00:16+00:00",
-            "quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-8 days, 00:57:25) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-09-28T17:10:29+00:00"
-        }
-    ]
+"valid_auth": false,
+"count": 5,
+"limit": 5,
+"total": 123,
+"last_page": 25,
+"result": [
+{
+"id": 465,
+"cospar_id": "",
+"sort_date": "1667310060",
+"name": "USSF-44",
+"provider": {
+"id": 1,
+"name": "SpaceX",
+"slug": "spacex"
+},
+"vehicle": {
+"id": 7,
+"name": "Falcon Heavy",
+"company_id": 1,
+"slug": "falcon-heavy"
+},
+"pad": {
+"id": 2,
+"name": "LC-39A",
+"location": {
+"id": 61,
+"name": "Kennedy Space Center",
+"state": "FL",
+"statename": "Florida",
+"country": "United States",
+"slug": "kennedy-space-center"
+}
+},
+"missions": [
+{
+"id": 448,
+"name": "USSF-44",
+"description": null
+}
+],
+"mission_description": null,
+"launch_description": "A SpaceX Falcon Heavy rocket will launch the USSF-44 mission on Tuesday, November 1, 2022 at 1:41 PM (UTC).",
+"win_open": "2022-11-01T13:41Z",
+"t0": null,
+"win_close": null,
+"est_date": {
+"month": null,
+"day": null,
+"year": null,
+"quarter": null
+},
+"date_str": "Nov 01",
+"tags": [
+{
+"id": 114,
+"text": "B1064"
+},
+{
+"id": 115,
+"text": "B1065"
+},
+{
+"id": 116,
+"text": "B1066"
+}
+],
+"slug": "afspc-44",
+"weather_summary": "Partly Cloudy Temp: 77.27F Wind: 3.05mph ",
+"weather_temp": 77.27,
+"weather_condition": "Partly Cloudy",
+"weather_wind_mph": 3.05,
+"weather_icon": "wi-day-cloudy",
+"weather_updated": "2022-10-31T12:00:15+00:00",
+"quicktext": "Falcon Heavy - USSF-44 - Tue Nov 01, 2022 13:41:00 UTC (L-19:25:22) - https://rocketlaunch.live/launch/afspc-44 for info/stream",
+"media": [],
+"result": -1,
+"suborbital": false,
+"modified": "2022-10-30T12:05:55+00:00"
+},
+{
+"id": 3223,
+"cospar_id": "",
+"sort_date": "1667445900",
+"name": "Hotbird-13G",
+"provider": {
+"id": 1,
+"name": "SpaceX",
+"slug": "spacex"
+},
+"vehicle": {
+"id": 1,
+"name": "Falcon 9",
+"company_id": 1,
+"slug": "falcon-9"
+},
+"pad": {
+"id": 3,
+"name": "SLC-40",
+"location": {
+"id": 62,
+"name": "Cape Canaveral SFS",
+"state": "FL",
+"statename": "Florida",
+"country": "United States",
+"slug": "cape-canaveral-sfs"
+}
+},
+"missions": [
+{
+"id": 4950,
+"name": "Hotbird-13G",
+"description": null
+}
+],
+"mission_description": null,
+"launch_description": "A SpaceX Falcon 9 rocket will launch the Hotbird-13G mission on Thursday, November 3, 2022 at 3:25 AM (UTC).",
+"win_open": "2022-11-03T03:25Z",
+"t0": null,
+"win_close": null,
+"est_date": {
+"month": null,
+"day": null,
+"year": null,
+"quarter": null
+},
+"date_str": "Nov 03",
+"tags": [],
+"slug": "hotbird-13g",
+"weather_summary": "Clear Temp: 71.46F Wind: 9.13mph ",
+"weather_temp": 71.46,
+"weather_condition": "Clear",
+"weather_wind_mph": 9.13,
+"weather_icon": "wi-night-clear",
+"weather_updated": "2022-10-31T12:00:15+00:00",
+"quicktext": "Falcon 9 - Hotbird-13G - Thu Nov 03, 2022 03:25:00 UTC (L-2 days, 09:09:22) - https://rocketlaunch.live/launch/hotbird-13g for info/stream",
+"media": [],
+"result": -1,
+"suborbital": false,
+"modified": "2022-10-26T10:08:26+00:00"
+},
+{
+"id": 2822,
+"cospar_id": "",
+"sort_date": "1667731800",
+"name": "CRS2 NG-18 (Cygnus)",
+"provider": {
+"id": 88,
+"name": "Northrop Grumman",
+"slug": "northrop-grumman"
+},
+"vehicle": {
+"id": 5,
+"name": "Antares",
+"company_id": 88,
+"slug": "antares"
+},
+"pad": {
+"id": 6,
+"name": "Pad 0A",
+"location": {
+"id": 66,
+"name": "Mid-Atlantic Regional Spaceport (Wallops Island)",
+"state": "VA",
+"statename": "Virginia",
+"country": "United States",
+"slug": "mid-atlantic-regional-spaceport-wallops-island"
+}
+},
+"missions": [
+{
+"id": 4385,
+"name": "CRS2 NG-18 (Cygnus)",
+"description": null
+}
+],
+"mission_description": null,
+"launch_description": "A Northrop Grumman Antares rocket will launch the CRS2 NG-18 (Cygnus) mission on Sunday, November 6, 2022 at 10:50 AM (UTC).",
+"win_open": "2022-11-06T10:50Z",
+"t0": null,
+"win_close": null,
+"est_date": {
+"month": null,
+"day": null,
+"year": null,
+"quarter": null
+},
+"date_str": "Nov 06",
+"tags": [
+{
+"id": 12,
+"text": "ISS Cargo"
+}
+],
+"slug": "crs2-ng-18",
+"weather_summary": "Clear Temp: 62.93F Wind: 5.48mph ",
+"weather_temp": 62.93,
+"weather_condition": "Clear",
+"weather_wind_mph": 5.48,
+"weather_icon": "wi-night-clear",
+"weather_updated": "2022-10-31T12:00:16+00:00",
+"quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-5 days, 16:34:22) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
+"media": [],
+"result": -1,
+"suborbital": false,
+"modified": "2022-09-28T17:10:29+00:00"
+},
+{
+"id": 3245,
+"cospar_id": "",
+"sort_date": "1667951996",
+"name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
+"provider": {
+"id": 1,
+"name": "SpaceX",
+"slug": "spacex"
+},
+"vehicle": {
+"id": 1,
+"name": "Falcon 9",
+"company_id": 1,
+"slug": "falcon-9"
+},
+"pad": {
+"id": 3,
+"name": "SLC-40",
+"location": {
+"id": 62,
+"name": "Cape Canaveral SFS",
+"state": "FL",
+"statename": "Florida",
+"country": "United States",
+"slug": "cape-canaveral-sfs"
+}
+},
+"missions": [
+{
+"id": 4980,
+"name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
+"description": null
+}
+],
+"mission_description": null,
+"launch_description": "A SpaceX Falcon 9 rocket will launch the Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) mission. The launch date is currently targeted for November 08, 2022 (UTC).",
+"win_open": null,
+"t0": null,
+"win_close": null,
+"est_date": {
+"month": 11,
+"day": 8,
+"year": 2022,
+"quarter": null
+},
+"date_str": "Nov 08",
+"tags": [
+{
+"id": 65,
+"text": "B1051"
+}
+],
+"slug": "intelsat-g-31-g-32-g",
+"weather_summary": null,
+"weather_temp": null,
+"weather_condition": null,
+"weather_wind_mph": null,
+"weather_icon": null,
+"weather_updated": null,
+"quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Nov 08 (estimated) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
+"media": [],
+"result": -1,
+"suborbital": false,
+"modified": "2022-10-31T14:10:46+00:00"
+},
+{
+"id": 323,
+"cospar_id": "",
+"sort_date": "1667989500",
+"name": "JPSS-2",
+"provider": {
+"id": 3,
+"name": "United Launch Alliance (ULA)",
+"slug": "united-launch-alliance-ula"
+},
+"vehicle": {
+"id": 3,
+"name": "Atlas V",
+"company_id": 3,
+"slug": "atlas-v"
+},
+"pad": {
+"id": 22,
+"name": "SLC-3E",
+"location": {
+"id": 60,
+"name": "Vandenberg SFB",
+"state": "CA",
+"statename": "California",
+"country": "United States",
+"slug": "vandenberg-sfb"
+}
+},
+"missions": [
+{
+"id": 309,
+"name": "JPSS-2",
+"description": null
+},
+{
+"id": 4188,
+"name": "LOFTID",
+"description": null
+}
+],
+"mission_description": null,
+"launch_description": "A United Launch Alliance (ULA) Atlas V rocket will launch the JPSS-2 mission on Wednesday, November 9, 2022 at 10:25 AM (UTC).",
+"win_open": "2022-11-09T10:25Z",
+"t0": null,
+"win_close": null,
+"est_date": {
+"month": null,
+"day": null,
+"year": null,
+"quarter": null
+},
+"date_str": "Nov 09",
+"tags": [
+{
+"id": 25,
+"text": "Earth Observation Satellite"
+},
+{
+"id": 29,
+"text": "Polar Orbit"
+}
+],
+"slug": "jpss-2",
+"weather_summary": "Clear Temp: 52.28F Wind: 12.99mph ",
+"weather_temp": 52.28,
+"weather_condition": "Clear",
+"weather_wind_mph": 12.99,
+"weather_icon": "wi-night-clear",
+"weather_updated": "2022-10-31T12:00:16+00:00",
+"quicktext": "Atlas V - JPSS-2 - Wed Nov 09, 2022 10:25:00 UTC (L-8 days, 16:09:22) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
+"media": [],
+"result": -1,
+"suborbital": false,
+"modified": "2022-10-29T18:52:44+00:00"
+}
+]
 }
