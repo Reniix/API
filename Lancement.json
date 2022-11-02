@@ -6,83 +6,9 @@
     "last_page": 25,
     "result": [
         {
-            "id": 465,
-            "cospar_id": "",
-            "sort_date": "1667310060",
-            "name": "USSF-44",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 7,
-                "name": "Falcon Heavy",
-                "company_id": 1,
-                "slug": "falcon-heavy"
-            },
-            "pad": {
-                "id": 2,
-                "name": "LC-39A",
-                "location": {
-                    "id": 61,
-                    "name": "Kennedy Space Center",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "kennedy-space-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 448,
-                    "name": "USSF-44",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon Heavy rocket will launch the USSF-44 mission on Tuesday, November 1, 2022 at 1:41 PM (UTC).",
-            "win_open": "2022-11-01T13:41Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 01",
-            "tags": [
-                {
-                    "id": 114,
-                    "text": "B1064"
-                },
-                {
-                    "id": 115,
-                    "text": "B1065"
-                },
-                {
-                    "id": 116,
-                    "text": "B1066"
-                }
-            ],
-            "slug": "afspc-44",
-            "weather_summary": "Partly Cloudy Temp: 77.27F Wind: 3.05mph ",
-            "weather_temp": 77.27,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 3.05,
-            "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-10-31T12:00:15+00:00",
-            "quicktext": "Falcon Heavy - USSF-44 - Tue Nov 01, 2022 13:41:00 UTC (L-18:24:44) - https://rocketlaunch.live/launch/afspc-44 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-30T12:05:55+00:00"
-        },
-        {
             "id": 3223,
             "cospar_id": "",
-            "sort_date": "1667445900",
+            "sort_date": "1667445960",
             "name": "Hotbird-13G",
             "provider": {
                 "id": 1,
@@ -115,8 +41,8 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Hotbird-13G mission on Thursday, November 3, 2022 at 3:25 AM (UTC).",
-            "win_open": "2022-11-03T03:25Z",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Hotbird-13G mission on Thursday, November 3, 2022 at 3:26 AM (UTC).",
+            "win_open": "2022-11-03T03:26Z",
             "t0": null,
             "win_close": null,
             "est_date": {
@@ -128,17 +54,78 @@
             "date_str": "Nov 03",
             "tags": [],
             "slug": "hotbird-13g",
-            "weather_summary": "Clear Temp: 71.46F Wind: 9.13mph ",
-            "weather_temp": 71.46,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 9.13,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-10-31T12:00:15+00:00",
-            "quicktext": "Falcon 9 - Hotbird-13G - Thu Nov 03, 2022 03:25:00 UTC (L-2 days, 08:08:44) - https://rocketlaunch.live/launch/hotbird-13g for info/stream",
+            "weather_summary": "Partly Cloudy Temp: 72.57F Wind: 8.64mph ",
+            "weather_temp": 72.57,
+            "weather_condition": "Partly Cloudy",
+            "weather_wind_mph": 8.64,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2022-11-02T00:00:21+00:00",
+            "quicktext": "Falcon 9 - Hotbird-13G - Thu Nov 03, 2022 03:26:00 UTC (L-17:59:19) - https://rocketlaunch.live/launch/hotbird-13g for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2022-10-26T10:08:26+00:00"
+            "modified": "2022-11-01T21:37:05+00:00"
+        },
+        {
+            "id": 3248,
+            "cospar_id": "",
+            "sort_date": "1667582100",
+            "name": "Catch Me If You Can",
+            "provider": {
+                "id": 26,
+                "name": "Rocket Lab",
+                "slug": "rocket-lab"
+            },
+            "vehicle": {
+                "id": 18,
+                "name": "Electron",
+                "company_id": 26,
+                "slug": "electron"
+            },
+            "pad": {
+                "id": 122,
+                "name": "LC-1B",
+                "location": {
+                    "id": 20,
+                    "name": "Rocket Lab Launch Complex, Mahia Peninsula",
+                    "state": null,
+                    "statename": null,
+                    "country": "New Zealand",
+                    "slug": "rocket-lab-launch-complex-mahia-peninsula"
+                }
+            },
+            "missions": [
+                {
+                    "id": 4983,
+                    "name": "MATS",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A Rocket Lab Electron rocket will launch the Catch Me If You Can mission on Friday, November 4, 2022 at 5:15 PM (UTC).",
+            "win_open": "2022-11-04T17:15Z",
+            "t0": null,
+            "win_close": "2022-11-04T18:30Z",
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Nov 04",
+            "tags": [],
+            "slug": "mats",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "Electron - Catch Me If You Can - Fri Nov 04, 2022 17:15:00 UTC (L-2 days, 07:48:19) - https://rocketlaunch.live/launch/mats for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-11-02T01:00:19+00:00"
         },
         {
             "id": 2822,
@@ -194,13 +181,13 @@
                 }
             ],
             "slug": "crs2-ng-18",
-            "weather_summary": "Clear Temp: 62.93F Wind: 5.48mph ",
-            "weather_temp": 62.93,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 5.48,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-10-31T12:00:16+00:00",
-            "quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-5 days, 15:33:44) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
+            "weather_summary": "Overcast Temp: 62.72F Wind: 9.07mph ",
+            "weather_temp": 62.72,
+            "weather_condition": "Overcast",
+            "weather_wind_mph": 9.07,
+            "weather_icon": "wi-cloudy",
+            "weather_updated": "2022-11-02T00:00:21+00:00",
+            "quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-4 days, 01:23:19) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -335,13 +322,13 @@
                 }
             ],
             "slug": "jpss-2",
-            "weather_summary": "Clear Temp: 52.28F Wind: 12.99mph ",
-            "weather_temp": 52.28,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 12.99,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-10-31T12:00:16+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Wed Nov 09, 2022 10:25:00 UTC (L-8 days, 15:08:44) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
+            "weather_summary": "Mostly Cloudy Temp: 47.54F Wind: 7.34mph ",
+            "weather_temp": 47.54,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 7.34,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2022-11-02T00:00:22+00:00",
+            "quicktext": "Atlas V - JPSS-2 - Wed Nov 09, 2022 10:25:00 UTC (L-7 days, 00:58:19) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
