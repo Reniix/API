@@ -2,74 +2,13 @@
     "valid_auth": false,
     "count": 5,
     "limit": 5,
-    "total": 123,
+    "total": 122,
     "last_page": 25,
     "result": [
         {
-            "id": 3223,
-            "cospar_id": "",
-            "sort_date": "1667445960",
-            "name": "Hotbird-13G",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
-            },
-            "pad": {
-                "id": 3,
-                "name": "SLC-40",
-                "location": {
-                    "id": 62,
-                    "name": "Cape Canaveral SFS",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "cape-canaveral-sfs"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4950,
-                    "name": "Hotbird-13G",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Hotbird-13G mission on Thursday, November 3, 2022 at 3:26 AM (UTC).",
-            "win_open": "2022-11-03T03:26Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 03",
-            "tags": [],
-            "slug": "hotbird-13g",
-            "weather_summary": "Partly Cloudy Temp: 72.57F Wind: 8.64mph ",
-            "weather_temp": 72.57,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 8.64,
-            "weather_icon": "wi-night-alt-cloudy",
-            "weather_updated": "2022-11-02T00:00:21+00:00",
-            "quicktext": "Falcon 9 - Hotbird-13G - Thu Nov 03, 2022 03:26:00 UTC (L-17:59:19) - https://rocketlaunch.live/launch/hotbird-13g for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-11-01T21:37:05+00:00"
-        },
-        {
             "id": 3248,
             "cospar_id": "",
-            "sort_date": "1667582100",
+            "sort_date": "1667582820",
             "name": "Catch Me If You Can",
             "provider": {
                 "id": 26,
@@ -102,9 +41,9 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A Rocket Lab Electron rocket will launch the Catch Me If You Can mission on Friday, November 4, 2022 at 5:15 PM (UTC).",
+            "launch_description": "A Rocket Lab Electron rocket was set to launch the Catch Me If You Can mission on Friday, November 4, 2022 at 5:27 PM (UTC).",
             "win_open": "2022-11-04T17:15Z",
-            "t0": null,
+            "t0": "2022-11-04T17:27Z",
             "win_close": "2022-11-04T18:30Z",
             "est_date": {
                 "month": null,
@@ -115,17 +54,17 @@
             "date_str": "Nov 04",
             "tags": [],
             "slug": "mats",
-            "weather_summary": null,
-            "weather_temp": null,
-            "weather_condition": null,
-            "weather_wind_mph": null,
-            "weather_icon": null,
-            "weather_updated": null,
-            "quicktext": "Electron - Catch Me If You Can - Fri Nov 04, 2022 17:15:00 UTC (L-2 days, 07:48:19) - https://rocketlaunch.live/launch/mats for info/stream",
+            "weather_summary": "Clear Temp: 59.2F Wind: 13.81mph ",
+            "weather_temp": 59.2,
+            "weather_condition": "Clear",
+            "weather_wind_mph": 13.81,
+            "weather_icon": "wi-day-sunny",
+            "weather_updated": "2022-11-04T12:00:20+00:00",
+            "quicktext": "Electron - Catch Me If You Can - Fri Nov 04, 2022 17:15:00 UTC (L+00:39:10) - https://rocketlaunch.live/launch/mats for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2022-11-02T01:00:19+00:00"
+            "modified": "2022-11-04T14:31:36+00:00"
         },
         {
             "id": 2822,
@@ -181,17 +120,17 @@
                 }
             ],
             "slug": "crs2-ng-18",
-            "weather_summary": "Overcast Temp: 62.72F Wind: 9.07mph ",
-            "weather_temp": 62.72,
-            "weather_condition": "Overcast",
-            "weather_wind_mph": 9.07,
-            "weather_icon": "wi-cloudy",
-            "weather_updated": "2022-11-02T00:00:21+00:00",
-            "quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-4 days, 01:23:19) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
+            "weather_summary": "Mostly Cloudy Temp: 62.52F Wind: 9.58mph ",
+            "weather_temp": 62.52,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 9.58,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2022-11-04T12:00:21+00:00",
+            "quicktext": "Antares - CRS2 NG-18 (Cygnus) - Sun Nov 06, 2022 10:50:00 UTC (L-1 days, 16:55:50) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2022-09-28T17:10:29+00:00"
+            "modified": "2022-11-03T22:37:59+00:00"
         },
         {
             "id": 3245,
@@ -244,6 +183,10 @@
                 {
                     "id": 65,
                     "text": "B1051"
+                },
+                {
+                    "id": 24,
+                    "text": "Communications Satellite"
                 }
             ],
             "slug": "intelsat-g-31-g-32-g",
@@ -257,12 +200,12 @@
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2022-10-31T14:10:46+00:00"
+            "modified": "2022-11-03T16:58:44+00:00"
         },
         {
             "id": 323,
             "cospar_id": "",
-            "sort_date": "1667989500",
+            "sort_date": "1668072300",
             "name": "JPSS-2",
             "provider": {
                 "id": 3,
@@ -300,8 +243,8 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A United Launch Alliance (ULA) Atlas V rocket will launch the JPSS-2 mission on Wednesday, November 9, 2022 at 10:25 AM (UTC).",
-            "win_open": "2022-11-09T10:25Z",
+            "launch_description": "A United Launch Alliance (ULA) Atlas V rocket will launch the JPSS-2 mission on Thursday, November 10, 2022 at 9:25 AM (UTC).",
+            "win_open": "2022-11-10T09:25Z",
             "t0": null,
             "win_close": null,
             "est_date": {
@@ -310,7 +253,7 @@
                 "year": null,
                 "quarter": null
             },
-            "date_str": "Nov 09",
+            "date_str": "Nov 10",
             "tags": [
                 {
                     "id": 25,
@@ -322,17 +265,99 @@
                 }
             ],
             "slug": "jpss-2",
-            "weather_summary": "Mostly Cloudy Temp: 47.54F Wind: 7.34mph ",
-            "weather_temp": 47.54,
-            "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 7.34,
-            "weather_icon": "wi-night-alt-cloudy",
-            "weather_updated": "2022-11-02T00:00:22+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Wed Nov 09, 2022 10:25:00 UTC (L-7 days, 00:58:19) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
+            "weather_summary": "Clear Temp: 46.29F Wind: 8.6mph ",
+            "weather_temp": 46.29,
+            "weather_condition": "Clear",
+            "weather_wind_mph": 8.6,
+            "weather_icon": "wi-night-clear",
+            "weather_updated": "2022-11-04T12:00:21+00:00",
+            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-5 days, 15:30:50) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2022-10-29T18:52:44+00:00"
+            "modified": "2022-11-04T02:27:32+00:00"
+        },
+        {
+            "id": 38,
+            "cospar_id": "",
+            "sort_date": "1668402420",
+            "name": "Artemis I (EM-1)",
+            "provider": {
+                "id": 2,
+                "name": "NASA",
+                "slug": "nasa"
+            },
+            "vehicle": {
+                "id": 15,
+                "name": "SLS",
+                "company_id": 2,
+                "slug": "sls"
+            },
+            "pad": {
+                "id": 36,
+                "name": "LC-39B",
+                "location": {
+                    "id": 61,
+                    "name": "Kennedy Space Center",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "kennedy-space-center"
+                }
+            },
+            "missions": [
+                {
+                    "id": 35,
+                    "name": "Artemis I (EM-1)",
+                    "description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit."
+                }
+            ],
+            "mission_description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit.",
+            "launch_description": "A NASA SLS rocket will launch the Artemis I (EM-1) mission on Monday, November 14, 2022 at 5:07 AM (UTC).",
+            "win_open": "2022-11-14T05:07Z",
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Nov 14",
+            "tags": [
+                {
+                    "id": 48,
+                    "text": "Lunar Orbit"
+                },
+                {
+                    "id": 91,
+                    "text": "Series: NASA Artemis"
+                },
+                {
+                    "id": 23,
+                    "text": "Test Flight"
+                },
+                {
+                    "id": 21,
+                    "text": "Uncrewed"
+                },
+                {
+                    "id": 14,
+                    "text": "Vehicle Debut"
+                }
+            ],
+            "slug": "em-1",
+            "weather_summary": "Clear Temp: 63.6F Wind: 3.61mph ",
+            "weather_temp": 63.6,
+            "weather_condition": "Clear",
+            "weather_wind_mph": 3.61,
+            "weather_icon": "wi-night-clear",
+            "weather_updated": "2022-11-04T12:00:22+00:00",
+            "quicktext": "SLS - Artemis I (EM-1) - Mon Nov 14, 2022 05:07:00 UTC (L-9 days, 11:12:50) - https://rocketlaunch.live/launch/em-1 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-10-12T13:31:36+00:00"
         }
     ]
 }
