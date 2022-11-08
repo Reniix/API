@@ -2,145 +2,9 @@
     "valid_auth": false,
     "count": 5,
     "limit": 5,
-    "total": 121,
-    "last_page": 25,
+    "total": 120,
+    "last_page": 24,
     "result": [
-        {
-            "id": 2822,
-            "cospar_id": "",
-            "sort_date": "1667817120",
-            "name": "CRS2 NG-18 (Cygnus, S. S. Sally Ride)",
-            "provider": {
-                "id": 88,
-                "name": "Northrop Grumman",
-                "slug": "northrop-grumman"
-            },
-            "vehicle": {
-                "id": 5,
-                "name": "Antares",
-                "company_id": 88,
-                "slug": "antares"
-            },
-            "pad": {
-                "id": 6,
-                "name": "Pad 0A",
-                "location": {
-                    "id": 66,
-                    "name": "Mid-Atlantic Regional Spaceport (Wallops Island)",
-                    "state": "VA",
-                    "statename": "Virginia",
-                    "country": "United States",
-                    "slug": "mid-atlantic-regional-spaceport-wallops-island"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4385,
-                    "name": "CRS2 NG-18 (Cygnus, S. S. Sally Ride)",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A Northrop Grumman Antares rocket will launch the CRS2 NG-18 (Cygnus, S. S. Sally Ride) mission on Monday, November 7, 2022 at 10:32 AM (UTC).",
-            "win_open": "2022-11-07T10:27Z",
-            "t0": "2022-11-07T10:32Z",
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 07",
-            "tags": [
-                {
-                    "id": 12,
-                    "text": "ISS Cargo"
-                }
-            ],
-            "slug": "crs2-ng-18",
-            "weather_summary": "Mostly Cloudy Temp: 63.18F Wind: 7.42mph ",
-            "weather_temp": 63.18,
-            "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 7.42,
-            "weather_icon": "wi-night-alt-cloudy",
-            "weather_updated": "2022-11-07T00:00:17+00:00",
-            "quicktext": "Antares - CRS2 NG-18 (Cygnus, S. S. Sally Ride) - Mon Nov 07, 2022 10:27:00 UTC (L-00:09:21) - https://rocketlaunch.live/launch/crs2-ng-18 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-11-07T10:11:42+00:00"
-        },
-        {
-            "id": 3245,
-            "cospar_id": "",
-            "sort_date": "1667923560",
-            "name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
-            },
-            "pad": {
-                "id": 3,
-                "name": "SLC-40",
-                "location": {
-                    "id": 62,
-                    "name": "Cape Canaveral SFS",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "cape-canaveral-sfs"
-                }
-            },
-            "missions": [
-                {
-                    "id": 4980,
-                    "name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) mission on Tuesday, November 8, 2022 at 4:06 PM (UTC).",
-            "win_open": "2022-11-08T16:06Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 08",
-            "tags": [
-                {
-                    "id": 65,
-                    "text": "B1051"
-                },
-                {
-                    "id": 24,
-                    "text": "Communications Satellite"
-                }
-            ],
-            "slug": "intelsat-g-31-g-32-g",
-            "weather_summary": "Partly Cloudy Temp: 81.22F Wind: 23.27mph ",
-            "weather_temp": 81.22,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 23.27,
-            "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-07T00:00:18+00:00",
-            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Tue Nov 08, 2022 16:06:00 UTC (L-1 days, 05:48:21) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-11-05T12:54:47+00:00"
-        },
         {
             "id": 323,
             "cospar_id": "",
@@ -204,17 +68,87 @@
                 }
             ],
             "slug": "jpss-2",
-            "weather_summary": "Clear Temp: 47.77F Wind: 9.06mph ",
-            "weather_temp": 47.77,
+            "weather_summary": "Clear Temp: 48.51F Wind: 9.62mph ",
+            "weather_temp": 48.51,
             "weather_condition": "Clear",
-            "weather_wind_mph": 9.06,
+            "weather_wind_mph": 9.62,
             "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-11-07T00:00:18+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-2 days, 23:07:21) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
+            "weather_updated": "2022-11-08T12:00:11+00:00",
+            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-1 days, 21:06:58) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-11-04T02:27:32+00:00"
+        },
+        {
+            "id": 3245,
+            "cospar_id": "",
+            "sort_date": "1668269160",
+            "name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
+            "provider": {
+                "id": 1,
+                "name": "SpaceX",
+                "slug": "spacex"
+            },
+            "vehicle": {
+                "id": 1,
+                "name": "Falcon 9",
+                "company_id": 1,
+                "slug": "falcon-9"
+            },
+            "pad": {
+                "id": 3,
+                "name": "SLC-40",
+                "location": {
+                    "id": 62,
+                    "name": "Cape Canaveral SFS",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "cape-canaveral-sfs"
+                }
+            },
+            "missions": [
+                {
+                    "id": 4980,
+                    "name": "Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32)",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) mission on Saturday, November 12, 2022 at 4:06 PM (UTC).",
+            "win_open": "2022-11-12T16:06Z",
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Nov 12",
+            "tags": [
+                {
+                    "id": 65,
+                    "text": "B1051"
+                },
+                {
+                    "id": 24,
+                    "text": "Communications Satellite"
+                }
+            ],
+            "slug": "intelsat-g-31-g-32-g",
+            "weather_summary": "Partly Cloudy Temp: 82.31F Wind: 9.1mph ",
+            "weather_temp": 82.31,
+            "weather_condition": "Partly Cloudy",
+            "weather_wind_mph": 9.1,
+            "weather_icon": "wi-day-cloudy",
+            "weather_updated": "2022-11-08T12:00:11+00:00",
+            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Sat Nov 12, 2022 16:06:00 UTC (L-4 days, 03:47:58) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-11-08T00:26:31+00:00"
         },
         {
             "id": 38,
@@ -286,13 +220,13 @@
                 }
             ],
             "slug": "em-1",
-            "weather_summary": "Clear Temp: 52.58F Wind: 13.8mph ",
-            "weather_temp": 52.58,
+            "weather_summary": "Clear Temp: 60.1F Wind: 10.42mph ",
+            "weather_temp": 60.1,
             "weather_condition": "Clear",
-            "weather_wind_mph": 13.8,
+            "weather_wind_mph": 10.42,
             "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-11-07T00:00:18+00:00",
-            "quicktext": "SLS - Artemis I (EM-1) - Mon Nov 14, 2022 05:07:00 UTC (L-6 days, 18:49:21) - https://rocketlaunch.live/launch/em-1 for info/stream",
+            "weather_updated": "2022-11-08T12:00:12+00:00",
+            "quicktext": "SLS - Artemis I (EM-1) - Mon Nov 14, 2022 05:07:00 UTC (L-5 days, 16:48:58) - https://rocketlaunch.live/launch/em-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -356,17 +290,83 @@
                 }
             ],
             "slug": "rs1-flight-1",
-            "weather_summary": "Possible Light Rain Temp: 43.26F Wind: 11.84mph ",
-            "weather_temp": 43.26,
+            "weather_summary": "Possible Light Rain Temp: 43.07F Wind: 12.7mph ",
+            "weather_temp": 43.07,
             "weather_condition": "Possible Light Rain",
-            "weather_wind_mph": 11.84,
+            "weather_wind_mph": 12.7,
             "weather_icon": "wi-rain",
-            "weather_updated": "2022-11-07T00:00:19+00:00",
-            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-7 days, 11:42:21) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
+            "weather_updated": "2022-11-08T12:00:13+00:00",
+            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-6 days, 09:41:58) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-10-28T14:01:11+00:00"
+        },
+        {
+            "id": 3212,
+            "cospar_id": "",
+            "sort_date": "1668895440",
+            "name": "CRS2 SpX-26 (Dragon)",
+            "provider": {
+                "id": 1,
+                "name": "SpaceX",
+                "slug": "spacex"
+            },
+            "vehicle": {
+                "id": 1,
+                "name": "Falcon 9",
+                "company_id": 1,
+                "slug": "falcon-9"
+            },
+            "pad": {
+                "id": 2,
+                "name": "LC-39A",
+                "location": {
+                    "id": 61,
+                    "name": "Kennedy Space Center",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "kennedy-space-center"
+                }
+            },
+            "missions": [
+                {
+                    "id": 4939,
+                    "name": "CRS2 SpX-26 (Dragon)",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the CRS2 SpX-26 (Dragon) mission on Saturday, November 19, 2022 at 10:04 PM (UTC).",
+            "win_open": "2022-11-19T22:04Z",
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Nov 19",
+            "tags": [
+                {
+                    "id": 12,
+                    "text": "ISS Cargo"
+                }
+            ],
+            "slug": "crs2-spx-26",
+            "weather_summary": "Partly Cloudy Temp: 71.06F Wind: 9.06mph ",
+            "weather_temp": 71.06,
+            "weather_condition": "Partly Cloudy",
+            "weather_wind_mph": 9.06,
+            "weather_icon": "wi-day-cloudy",
+            "weather_updated": "2022-11-08T12:00:14+00:00",
+            "quicktext": "Falcon 9 - CRS2 SpX-26 (Dragon) - Sat Nov 19, 2022 22:04:00 UTC (L-11 days, 09:45:58) - https://rocketlaunch.live/launch/crs2-spx-26 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-11-08T11:12:28+00:00"
         }
     ]
 }
