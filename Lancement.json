@@ -68,13 +68,13 @@
                 }
             ],
             "slug": "jpss-2",
-            "weather_summary": "Clear Temp: 48.51F Wind: 9.62mph ",
-            "weather_temp": 48.51,
+            "weather_summary": "Clear Temp: 48.26F Wind: 10.13mph ",
+            "weather_temp": 48.26,
             "weather_condition": "Clear",
-            "weather_wind_mph": 9.62,
+            "weather_wind_mph": 10.13,
             "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-11-08T12:00:11+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-1 days, 21:06:58) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
+            "weather_updated": "2022-11-09T12:00:12+00:00",
+            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-14:36:18) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -138,99 +138,17 @@
                 }
             ],
             "slug": "intelsat-g-31-g-32-g",
-            "weather_summary": "Partly Cloudy Temp: 82.31F Wind: 9.1mph ",
-            "weather_temp": 82.31,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 9.1,
+            "weather_summary": "Mostly Cloudy Temp: 82.8F Wind: 6.93mph ",
+            "weather_temp": 82.8,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 6.93,
             "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-08T12:00:11+00:00",
-            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Sat Nov 12, 2022 16:06:00 UTC (L-4 days, 03:47:58) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
+            "weather_updated": "2022-11-09T12:00:13+00:00",
+            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Sat Nov 12, 2022 16:06:00 UTC (L-2 days, 21:17:18) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-11-08T00:26:31+00:00"
-        },
-        {
-            "id": 38,
-            "cospar_id": "",
-            "sort_date": "1668402420",
-            "name": "Artemis I (EM-1)",
-            "provider": {
-                "id": 2,
-                "name": "NASA",
-                "slug": "nasa"
-            },
-            "vehicle": {
-                "id": 15,
-                "name": "SLS",
-                "company_id": 2,
-                "slug": "sls"
-            },
-            "pad": {
-                "id": 36,
-                "name": "LC-39B",
-                "location": {
-                    "id": 61,
-                    "name": "Kennedy Space Center",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "kennedy-space-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 35,
-                    "name": "Artemis I (EM-1)",
-                    "description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit."
-                }
-            ],
-            "mission_description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit.",
-            "launch_description": "A NASA SLS rocket will launch the Artemis I (EM-1) mission on Monday, November 14, 2022 at 5:07 AM (UTC).",
-            "win_open": "2022-11-14T05:07Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 14",
-            "tags": [
-                {
-                    "id": 48,
-                    "text": "Lunar Orbit"
-                },
-                {
-                    "id": 91,
-                    "text": "Series: NASA Artemis"
-                },
-                {
-                    "id": 23,
-                    "text": "Test Flight"
-                },
-                {
-                    "id": 21,
-                    "text": "Uncrewed"
-                },
-                {
-                    "id": 14,
-                    "text": "Vehicle Debut"
-                }
-            ],
-            "slug": "em-1",
-            "weather_summary": "Clear Temp: 60.1F Wind: 10.42mph ",
-            "weather_temp": 60.1,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 10.42,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-11-08T12:00:12+00:00",
-            "quicktext": "SLS - Artemis I (EM-1) - Mon Nov 14, 2022 05:07:00 UTC (L-5 days, 16:48:58) - https://rocketlaunch.live/launch/em-1 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-10-12T13:31:36+00:00"
         },
         {
             "id": 2699,
@@ -290,17 +208,99 @@
                 }
             ],
             "slug": "rs1-flight-1",
-            "weather_summary": "Possible Light Rain Temp: 43.07F Wind: 12.7mph ",
-            "weather_temp": 43.07,
-            "weather_condition": "Possible Light Rain",
-            "weather_wind_mph": 12.7,
-            "weather_icon": "wi-rain",
-            "weather_updated": "2022-11-08T12:00:13+00:00",
-            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-6 days, 09:41:58) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
+            "weather_summary": "Mostly Cloudy Temp: 36.27F Wind: 11.57mph ",
+            "weather_temp": 36.27,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 11.57,
+            "weather_icon": "wi-day-cloudy",
+            "weather_updated": "2022-11-09T12:00:14+00:00",
+            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-5 days, 03:11:18) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-10-28T14:01:11+00:00"
+        },
+        {
+            "id": 38,
+            "cospar_id": "",
+            "sort_date": "1668578640",
+            "name": "Artemis I (EM-1)",
+            "provider": {
+                "id": 2,
+                "name": "NASA",
+                "slug": "nasa"
+            },
+            "vehicle": {
+                "id": 15,
+                "name": "SLS",
+                "company_id": 2,
+                "slug": "sls"
+            },
+            "pad": {
+                "id": 36,
+                "name": "LC-39B",
+                "location": {
+                    "id": 61,
+                    "name": "Kennedy Space Center",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "kennedy-space-center"
+                }
+            },
+            "missions": [
+                {
+                    "id": 35,
+                    "name": "Artemis I (EM-1)",
+                    "description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit."
+                }
+            ],
+            "mission_description": "On its debut flight, the Space Launch System (SLS) will send an uncrewed Orion Multi-Purpose Crew Vehicle on a four to six-week mission to the Moon and back, including 6 days in a retrograde lunar orbit.",
+            "launch_description": "A NASA SLS rocket will launch the Artemis I (EM-1) mission on Wednesday, November 16, 2022 at 6:04 AM (UTC).",
+            "win_open": "2022-11-16T06:04Z",
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Nov 16",
+            "tags": [
+                {
+                    "id": 48,
+                    "text": "Lunar Orbit"
+                },
+                {
+                    "id": 91,
+                    "text": "Series: NASA Artemis"
+                },
+                {
+                    "id": 23,
+                    "text": "Test Flight"
+                },
+                {
+                    "id": 21,
+                    "text": "Uncrewed"
+                },
+                {
+                    "id": 14,
+                    "text": "Vehicle Debut"
+                }
+            ],
+            "slug": "em-1",
+            "weather_summary": "Overcast Temp: 68.39F Wind: 7.23mph ",
+            "weather_temp": 68.39,
+            "weather_condition": "Overcast",
+            "weather_wind_mph": 7.23,
+            "weather_icon": "wi-cloudy",
+            "weather_updated": "2022-11-09T12:00:15+00:00",
+            "quicktext": "SLS - Artemis I (EM-1) - Wed Nov 16, 2022 06:04:00 UTC (L-6 days, 11:15:18) - https://rocketlaunch.live/launch/em-1 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-11-09T00:59:08+00:00"
         },
         {
             "id": 3212,
@@ -361,8 +361,8 @@
             "weather_condition": "Partly Cloudy",
             "weather_wind_mph": 9.06,
             "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-08T12:00:14+00:00",
-            "quicktext": "Falcon 9 - CRS2 SpX-26 (Dragon) - Sat Nov 19, 2022 22:04:00 UTC (L-11 days, 09:45:58) - https://rocketlaunch.live/launch/crs2-spx-26 for info/stream",
+            "weather_updated": "2022-11-09T12:00:15+00:00",
+            "quicktext": "Falcon 9 - CRS2 SpX-26 (Dragon) - Sat Nov 19, 2022 22:04:00 UTC (L-10 days, 03:15:18) - https://rocketlaunch.live/launch/crs2-spx-26 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
