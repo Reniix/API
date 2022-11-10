@@ -2,84 +2,9 @@
     "valid_auth": false,
     "count": 5,
     "limit": 5,
-    "total": 120,
-    "last_page": 24,
+    "total": 122,
+    "last_page": 25,
     "result": [
-        {
-            "id": 323,
-            "cospar_id": "",
-            "sort_date": "1668072300",
-            "name": "JPSS-2",
-            "provider": {
-                "id": 3,
-                "name": "United Launch Alliance (ULA)",
-                "slug": "united-launch-alliance-ula"
-            },
-            "vehicle": {
-                "id": 3,
-                "name": "Atlas V",
-                "company_id": 3,
-                "slug": "atlas-v"
-            },
-            "pad": {
-                "id": 22,
-                "name": "SLC-3E",
-                "location": {
-                    "id": 60,
-                    "name": "Vandenberg SFB",
-                    "state": "CA",
-                    "statename": "California",
-                    "country": "United States",
-                    "slug": "vandenberg-sfb"
-                }
-            },
-            "missions": [
-                {
-                    "id": 309,
-                    "name": "JPSS-2",
-                    "description": null
-                },
-                {
-                    "id": 4188,
-                    "name": "LOFTID",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A United Launch Alliance (ULA) Atlas V rocket will launch the JPSS-2 mission on Thursday, November 10, 2022 at 9:25 AM (UTC).",
-            "win_open": "2022-11-10T09:25Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Nov 10",
-            "tags": [
-                {
-                    "id": 25,
-                    "text": "Earth Observation Satellite"
-                },
-                {
-                    "id": 29,
-                    "text": "Polar Orbit"
-                }
-            ],
-            "slug": "jpss-2",
-            "weather_summary": "Clear Temp: 48.26F Wind: 10.13mph ",
-            "weather_temp": 48.26,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 10.13,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2022-11-09T12:00:12+00:00",
-            "quicktext": "Atlas V - JPSS-2 - Thu Nov 10, 2022 09:25:00 UTC (L-14:36:18) - https://rocketlaunch.live/launch/jpss-2 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2022-11-04T02:27:32+00:00"
-        },
         {
             "id": 3245,
             "cospar_id": "",
@@ -138,13 +63,13 @@
                 }
             ],
             "slug": "intelsat-g-31-g-32-g",
-            "weather_summary": "Mostly Cloudy Temp: 82.8F Wind: 6.93mph ",
-            "weather_temp": 82.8,
+            "weather_summary": "Mostly Cloudy Temp: 79.51F Wind: 7.23mph ",
+            "weather_temp": 79.51,
             "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 6.93,
+            "weather_wind_mph": 7.23,
             "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-09T12:00:13+00:00",
-            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Sat Nov 12, 2022 16:06:00 UTC (L-2 days, 21:17:18) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
+            "weather_updated": "2022-11-10T12:00:14+00:00",
+            "quicktext": "Falcon 9 - Intelsat G-31/G-32 (Galaxy-31 & Galaxy-32) - Sat Nov 12, 2022 16:06:00 UTC (L-1 days, 23:48:35) - https://rocketlaunch.live/launch/intelsat-g-31-g-32-g for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -208,13 +133,13 @@
                 }
             ],
             "slug": "rs1-flight-1",
-            "weather_summary": "Mostly Cloudy Temp: 36.27F Wind: 11.57mph ",
-            "weather_temp": 36.27,
-            "weather_condition": "Mostly Cloudy",
-            "weather_wind_mph": 11.57,
+            "weather_summary": "Partly Cloudy Temp: 42F Wind: 8.61mph ",
+            "weather_temp": 42,
+            "weather_condition": "Partly Cloudy",
+            "weather_wind_mph": 8.61,
             "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-09T12:00:14+00:00",
-            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-5 days, 03:11:18) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
+            "weather_updated": "2022-11-10T12:00:15+00:00",
+            "quicktext": "RS1 - RS1 Flight 1 - Mon Nov 14, 2022 22:00:00 UTC (L-4 days, 05:42:35) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -290,13 +215,13 @@
                 }
             ],
             "slug": "em-1",
-            "weather_summary": "Overcast Temp: 68.39F Wind: 7.23mph ",
-            "weather_temp": 68.39,
-            "weather_condition": "Overcast",
-            "weather_wind_mph": 7.23,
-            "weather_icon": "wi-cloudy",
-            "weather_updated": "2022-11-09T12:00:15+00:00",
-            "quicktext": "SLS - Artemis I (EM-1) - Wed Nov 16, 2022 06:04:00 UTC (L-6 days, 11:15:18) - https://rocketlaunch.live/launch/em-1 for info/stream",
+            "weather_summary": "Mostly Cloudy Temp: 67.35F Wind: 4.07mph ",
+            "weather_temp": 67.35,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 4.07,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2022-11-10T12:00:16+00:00",
+            "quicktext": "SLS - Artemis I (EM-1) - Wed Nov 16, 2022 06:04:00 UTC (L-5 days, 13:46:35) - https://rocketlaunch.live/launch/em-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -356,17 +281,96 @@
                 }
             ],
             "slug": "crs2-spx-26",
-            "weather_summary": "Partly Cloudy Temp: 71.06F Wind: 9.06mph ",
-            "weather_temp": 71.06,
-            "weather_condition": "Partly Cloudy",
-            "weather_wind_mph": 9.06,
-            "weather_icon": "wi-day-cloudy",
-            "weather_updated": "2022-11-09T12:00:15+00:00",
-            "quicktext": "Falcon 9 - CRS2 SpX-26 (Dragon) - Sat Nov 19, 2022 22:04:00 UTC (L-10 days, 03:15:18) - https://rocketlaunch.live/launch/crs2-spx-26 for info/stream",
+            "weather_summary": "Humid Temp: 75.22F Wind: 13.83mph ",
+            "weather_temp": 75.22,
+            "weather_condition": "Humid",
+            "weather_wind_mph": 13.83,
+            "weather_icon": "wi-day-sunny",
+            "weather_updated": "2022-11-10T12:00:16+00:00",
+            "quicktext": "Falcon 9 - CRS2 SpX-26 (Dragon) - Sat Nov 19, 2022 22:04:00 UTC (L-9 days, 05:46:35) - https://rocketlaunch.live/launch/crs2-spx-26 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
             "modified": "2022-11-08T11:12:28+00:00"
+        },
+        {
+            "id": 3244,
+            "cospar_id": "",
+            "sort_date": "1669161596",
+            "name": "HAKUTO-R 1",
+            "provider": {
+                "id": 1,
+                "name": "SpaceX",
+                "slug": "spacex"
+            },
+            "vehicle": {
+                "id": 1,
+                "name": "Falcon 9",
+                "company_id": 1,
+                "slug": "falcon-9"
+            },
+            "pad": {
+                "id": 3,
+                "name": "SLC-40",
+                "location": {
+                    "id": 62,
+                    "name": "Cape Canaveral SFS",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "cape-canaveral-sfs"
+                }
+            },
+            "missions": [
+                {
+                    "id": 4979,
+                    "name": "HAKUTO-R 1",
+                    "description": null
+                },
+                {
+                    "id": 4984,
+                    "name": "Lunar Flashlight",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the HAKUTO-R 1 mission. The launch date is currently targeted for November 22, 2022 (UTC).",
+            "win_open": null,
+            "t0": null,
+            "win_close": null,
+            "est_date": {
+                "month": 11,
+                "day": 22,
+                "year": 2022,
+                "quarter": null
+            },
+            "date_str": "Nov 22",
+            "tags": [
+                {
+                    "id": 54,
+                    "text": "Lunar Lander"
+                },
+                {
+                    "id": 48,
+                    "text": "Lunar Orbit"
+                },
+                {
+                    "id": 55,
+                    "text": "Lunar Rover"
+                }
+            ],
+            "slug": "hakuto-r-1",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "Falcon 9 - HAKUTO-R 1 - Nov 22 (estimated) - https://rocketlaunch.live/launch/hakuto-r-1 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2022-11-03T13:44:26+00:00"
         }
     ]
 }
