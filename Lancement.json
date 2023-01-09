@@ -6,76 +6,6 @@
     "last_page": 24,
     "result": [
         {
-            "id": 3267,
-            "cospar_id": "",
-            "sort_date": "1673240100",
-            "name": "OneWeb-16",
-            "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
-            },
-            "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
-            },
-            "pad": {
-                "id": 3,
-                "name": "SLC-40",
-                "location": {
-                    "id": 62,
-                    "name": "Cape Canaveral SFS",
-                    "state": "FL",
-                    "statename": "Florida",
-                    "country": "United States",
-                    "slug": "cape-canaveral-sfs"
-                }
-            },
-            "missions": [
-                {
-                    "id": 5003,
-                    "name": "OneWeb-16",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the OneWeb-16 mission on Monday, January 9, 2023 at 4:55 AM (UTC).",
-            "win_open": "2023-01-09T04:55Z",
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": null,
-                "day": null,
-                "year": null,
-                "quarter": null
-            },
-            "date_str": "Jan 09",
-            "tags": [
-                {
-                    "id": 29,
-                    "text": "Polar Orbit"
-                },
-                {
-                    "id": 93,
-                    "text": "Series: OneWeb"
-                }
-            ],
-            "slug": "oneweb-16",
-            "weather_summary": "Clear Temp: 60.85F Wind: 9.54mph ",
-            "weather_temp": 60.85,
-            "weather_condition": "Clear",
-            "weather_wind_mph": 9.54,
-            "weather_icon": "wi-night-clear",
-            "weather_updated": "2023-01-06T00:00:18+00:00",
-            "quicktext": "Falcon 9 - OneWeb-16 - Mon Jan 09, 2023 04:55:00 UTC (L-2 days, 21:06:03) - https://rocketlaunch.live/launch/oneweb-16 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2023-01-04T12:47:16+00:00"
-        },
-        {
             "id": 2699,
             "cospar_id": "",
             "sort_date": "1673301600",
@@ -137,13 +67,13 @@
                 }
             ],
             "slug": "rs1-flight-1",
-            "weather_summary": "Possible Drizzle Temp: 35.74F Wind: 9.8mph ",
-            "weather_temp": 35.74,
+            "weather_summary": "Possible Drizzle Temp: 38.28F Wind: 21.5mph ",
+            "weather_temp": 38.28,
             "weather_condition": "Possible Drizzle",
-            "weather_wind_mph": 9.8,
+            "weather_wind_mph": 21.5,
             "weather_icon": "wi-rain",
-            "weather_updated": "2023-01-06T00:00:18+00:00",
-            "quicktext": "RS1 - RS1 Flight 1 - Mon Jan 09, 2023 22:00:00 UTC (L-3 days, 14:11:03) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
+            "weather_updated": "2023-01-09T00:00:18+00:00",
+            "quicktext": "RS1 - RS1 Flight 1 - Mon Jan 09, 2023 22:00:00 UTC (L-10:03:59) - https://rocketlaunch.live/launch/rs1-flight-1 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
@@ -152,7 +82,7 @@
         {
             "id": 3235,
             "cospar_id": "",
-            "sort_date": "1673302560",
+            "sort_date": "1673304840",
             "name": "Start Me Up",
             "provider": {
                 "id": 34,
@@ -215,10 +145,10 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A Virgin Orbit LauncherOne rocket will launch the 'Start Me Up' mission on Monday, January 9, 2023 at 10:16 PM (UTC).",
-            "win_open": "2023-01-09T22:16Z",
-            "t0": "2023-01-09T22:16Z",
-            "win_close": "2023-01-10T00:16Z",
+            "launch_description": "A Virgin Orbit LauncherOne rocket will launch the 'Start Me Up' mission on Monday, January 9, 2023 at 10:54 PM (UTC).",
+            "win_open": "2023-01-09T22:54Z",
+            "t0": "2023-01-09T22:54Z",
+            "win_close": "2023-01-10T23:54Z",
             "est_date": {
                 "month": null,
                 "day": null,
@@ -233,83 +163,22 @@
                 }
             ],
             "slug": "start-me-up",
-            "weather_summary": "Possible Light Rain Temp: 44.54F Wind: 13.01mph ",
-            "weather_temp": 44.54,
-            "weather_condition": "Possible Light Rain",
-            "weather_wind_mph": 13.01,
-            "weather_icon": "wi-rain",
-            "weather_updated": "2023-01-06T00:00:19+00:00",
-            "quicktext": "LauncherOne - 'Start Me Up' - Mon Jan 09, 2023 22:16:00 UTC (L-3 days, 14:27:03) - https://rocketlaunch.live/launch/start-me-up for info/stream",
+            "weather_summary": "Mostly Cloudy Temp: 46.18F Wind: 13.64mph ",
+            "weather_temp": 46.18,
+            "weather_condition": "Mostly Cloudy",
+            "weather_wind_mph": 13.64,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2023-01-09T00:00:19+00:00",
+            "quicktext": "LauncherOne - 'Start Me Up' - Mon Jan 09, 2023 22:54:00 UTC (L-10:57:59) - https://rocketlaunch.live/launch/start-me-up for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-01-05T12:37:12+00:00"
-        },
-        {
-            "id": 3298,
-            "cospar_id": "",
-            "sort_date": "1673308796",
-            "name": "Shijian-23",
-            "provider": {
-                "id": 41,
-                "name": "China",
-                "slug": "china"
-            },
-            "vehicle": {
-                "id": 72,
-                "name": "Long March 7",
-                "company_id": 41,
-                "slug": "long-march-7"
-            },
-            "pad": {
-                "id": 69,
-                "name": "LC-201",
-                "location": {
-                    "id": 45,
-                    "name": "Wenchang Satellite Launch Center",
-                    "state": null,
-                    "statename": null,
-                    "country": "China",
-                    "slug": "wenchang-satellite-launch-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 5045,
-                    "name": "Shijian-23",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A China Long March 7 rocket will launch the Shijian-23 mission. The launch date is currently targeted for January 09, 2023 (UTC).",
-            "win_open": null,
-            "t0": null,
-            "win_close": null,
-            "est_date": {
-                "month": 1,
-                "day": 9,
-                "year": 2023,
-                "quarter": null
-            },
-            "date_str": "Jan 09",
-            "tags": [],
-            "slug": "shijian-23",
-            "weather_summary": null,
-            "weather_temp": null,
-            "weather_condition": null,
-            "weather_wind_mph": null,
-            "weather_icon": null,
-            "weather_updated": null,
-            "quicktext": "Long March 7 - Shijian-23 - Jan 09 (estimated) - https://rocketlaunch.live/launch/shijian-23 for info/stream",
-            "media": [],
-            "result": -1,
-            "suborbital": false,
-            "modified": "2023-01-05T15:49:36+00:00"
+            "modified": "2023-01-08T10:40:33+00:00"
         },
         {
             "id": 3256,
             "cospar_id": "",
-            "sort_date": "1673322600",
+            "sort_date": "1673324100",
             "name": "Starlink-68 (2-4)",
             "provider": {
                 "id": 1,
@@ -342,9 +211,9 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-68 (2-4) mission on Tuesday, January 10, 2023 at 3:50 AM (UTC).",
-            "win_open": "2023-01-10T03:50Z",
-            "t0": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-68 (2-4) mission on Tuesday, January 10, 2023 at 4:15 AM (UTC).",
+            "win_open": "2023-01-10T04:15Z",
+            "t0": "2023-01-10T04:15Z",
             "win_close": null,
             "est_date": {
                 "month": null,
@@ -355,8 +224,8 @@
             "date_str": "Jan 10",
             "tags": [
                 {
-                    "id": 103,
-                    "text": "B1063"
+                    "id": 120,
+                    "text": "B1075"
                 },
                 {
                     "id": 92,
@@ -364,17 +233,165 @@
                 }
             ],
             "slug": "starlink-2-4",
-            "weather_summary": "Possible Light Rain and Windy Temp: 56.6F Wind: 26.63mph ",
-            "weather_temp": 56.6,
-            "weather_condition": "Possible Light Rain and Windy",
-            "weather_wind_mph": 26.63,
+            "weather_summary": "Possible Drizzle Temp: 54.8F Wind: 8.18mph ",
+            "weather_temp": 54.8,
+            "weather_condition": "Possible Drizzle",
+            "weather_wind_mph": 8.18,
             "weather_icon": "wi-rain",
-            "weather_updated": "2023-01-06T00:00:19+00:00",
-            "quicktext": "Falcon 9 - Starlink-68 (2-4) - Tue Jan 10, 2023 03:50:00 UTC (L-3 days, 20:01:03) - https://rocketlaunch.live/launch/starlink-2-4 for info/stream",
+            "weather_updated": "2023-01-09T00:00:19+00:00",
+            "quicktext": "Falcon 9 - Starlink-68 (2-4) - Tue Jan 10, 2023 04:15:00 UTC (L-16:18:59) - https://rocketlaunch.live/launch/starlink-2-4 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-01-05T17:50:07+00:00"
+            "modified": "2023-01-08T17:38:27+00:00"
+        },
+        {
+            "id": 3267,
+            "cospar_id": "",
+            "sort_date": "1673326200",
+            "name": "OneWeb-16",
+            "provider": {
+                "id": 1,
+                "name": "SpaceX",
+                "slug": "spacex"
+            },
+            "vehicle": {
+                "id": 1,
+                "name": "Falcon 9",
+                "company_id": 1,
+                "slug": "falcon-9"
+            },
+            "pad": {
+                "id": 3,
+                "name": "SLC-40",
+                "location": {
+                    "id": 62,
+                    "name": "Cape Canaveral SFS",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "cape-canaveral-sfs"
+                }
+            },
+            "missions": [
+                {
+                    "id": 5003,
+                    "name": "OneWeb-16",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the OneWeb-16 mission on Tuesday, January 10, 2023 at 4:50 AM (UTC).",
+            "win_open": "2023-01-10T04:50Z",
+            "t0": "2023-01-10T04:50Z",
+            "win_close": null,
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Jan 10",
+            "tags": [
+                {
+                    "id": 117,
+                    "text": "B1076"
+                },
+                {
+                    "id": 29,
+                    "text": "Polar Orbit"
+                },
+                {
+                    "id": 93,
+                    "text": "Series: OneWeb"
+                }
+            ],
+            "slug": "oneweb-16",
+            "weather_summary": "Partly Cloudy Temp: 58.91F Wind: 7.81mph ",
+            "weather_temp": 58.91,
+            "weather_condition": "Partly Cloudy",
+            "weather_wind_mph": 7.81,
+            "weather_icon": "wi-night-alt-cloudy",
+            "weather_updated": "2023-01-09T00:00:19+00:00",
+            "quicktext": "Falcon 9 - OneWeb-16 - Tue Jan 10, 2023 04:50:00 UTC (L-16:53:59) - https://rocketlaunch.live/launch/oneweb-16 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2023-01-08T16:51:09+00:00"
+        },
+        {
+            "id": 1208,
+            "cospar_id": "",
+            "sort_date": "1673649900",
+            "name": "USSF-67",
+            "provider": {
+                "id": 1,
+                "name": "SpaceX",
+                "slug": "spacex"
+            },
+            "vehicle": {
+                "id": 7,
+                "name": "Falcon Heavy",
+                "company_id": 1,
+                "slug": "falcon-heavy"
+            },
+            "pad": {
+                "id": 2,
+                "name": "LC-39A",
+                "location": {
+                    "id": 61,
+                    "name": "Kennedy Space Center",
+                    "state": "FL",
+                    "statename": "Florida",
+                    "country": "United States",
+                    "slug": "kennedy-space-center"
+                }
+            },
+            "missions": [
+                {
+                    "id": 1288,
+                    "name": "USSF-67",
+                    "description": null
+                }
+            ],
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon Heavy rocket will launch the USSF-67 mission on Friday, January 13, 2023 at 10:45 PM (UTC).",
+            "win_open": null,
+            "t0": "2023-01-13T22:45Z",
+            "win_close": null,
+            "est_date": {
+                "month": 1,
+                "day": 12,
+                "year": 2023,
+                "quarter": null
+            },
+            "date_str": "Jan 13",
+            "tags": [
+                {
+                    "id": 114,
+                    "text": "B1064"
+                },
+                {
+                    "id": 115,
+                    "text": "B1065"
+                },
+                {
+                    "id": 121,
+                    "text": "B1070"
+                }
+            ],
+            "slug": "ussf-67",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "Falcon Heavy - USSF-67 - Jan 13 (estimated) - https://rocketlaunch.live/launch/ussf-67 for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2023-01-09T02:49:17+00:00"
         }
     ]
 }
