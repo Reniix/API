@@ -1,367 +1,345 @@
 {
-    "count": 48,
+    "count": 44,
     "next": "https://lldev.thespacedevs.com/2.2.0/event/upcoming/?format=json&limit=5&offset=5",
     "previous": null,
     "results": [
         {
-            "id": 695,
-            "url": "https://lldev.thespacedevs.com/2.2.0/event/695/?format=json",
-            "slug": "artemis-i-status-update-12",
-            "name": "Artemis I Status Update #12",
+            "id": 361,
+            "url": "https://lldev.thespacedevs.com/2.2.0/event/361/?format=json",
+            "slug": "crs-26-dragon-undocking",
+            "name": "CRS-26 Dragon Undocking",
+            "updates": [],
+            "type": {
+                "id": 8,
+                "name": "Spacecraft Undocking"
+            },
+            "description": "The SpaceX CRS-26 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
+            "webcast_live": false,
+            "location": "International Space Station",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-26_dragon_u_image_20210922174908.jpeg",
+            "date": "2023-01-09T22:05:00Z",
+            "launches": [
+                {
+                    "id": "8b360e14-f90d-4a34-9a81-cb5a5ac364c1",
+                    "url": "https://lldev.thespacedevs.com/2.2.0/launch/8b360e14-f90d-4a34-9a81-cb5a5ac364c1/?format=json",
+                    "slug": "falcon-9-block-5-dragon-crs-2-spx-26",
+                    "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-26",
+                    "status": {
+                        "id": 3,
+                        "name": "Launch Successful",
+                        "abbrev": "Success",
+                        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+                    },
+                    "last_updated": "2023-01-08T00:52:13Z",
+                    "net": "2022-11-26T19:20:43Z",
+                    "window_end": "2022-11-26T19:20:43Z",
+                    "window_start": "2022-11-26T19:20:43Z",
+                    "probability": 90,
+                    "holdreason": "",
+                    "failreason": "",
+                    "hashtag": null,
+                    "launch_service_provider": {
+                        "id": 121,
+                        "url": "https://lldev.thespacedevs.com/2.2.0/agencies/121/?format=json",
+                        "name": "SpaceX",
+                        "type": "Commercial"
+                    },
+                    "rocket": {
+                        "id": 7458,
+                        "configuration": {
+                            "id": 164,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/config/launcher/164/?format=json",
+                            "name": "Falcon 9",
+                            "family": "Falcon",
+                            "full_name": "Falcon 9 Block 5",
+                            "variant": "Block 5"
+                        }
+                    },
+                    "mission": {
+                        "id": 5856,
+                        "name": "Dragon CRS-2 SpX-26",
+                        "description": "26th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA. Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+                        "launch_designator": null,
+                        "type": "Resupply",
+                        "orbit": {
+                            "id": 8,
+                            "name": "Low Earth Orbit",
+                            "abbrev": "LEO"
+                        }
+                    },
+                    "pad": {
+                        "id": 87,
+                        "url": "https://lldev.thespacedevs.com/2.2.0/pad/87/?format=json",
+                        "agency_id": null,
+                        "name": "Launch Complex 39A",
+                        "info_url": null,
+                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
+                        "map_url": "http://maps.google.com/maps?q=28.608+N,+80.604+W",
+                        "latitude": "28.60822681",
+                        "longitude": "-80.60428186",
+                        "location": {
+                            "id": 27,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/location/27/?format=json",
+                            "name": "Kennedy Space Center, FL, USA",
+                            "country_code": "USA",
+                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
+                            "total_launch_count": 213,
+                            "total_landing_count": 0
+                        },
+                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
+                        "total_launch_count": 155,
+                        "orbital_launch_attempt_count": 153
+                    },
+                    "webcast_live": false,
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155149.jpeg",
+                    "infographic": null,
+                    "program": [
+                        {
+                            "id": 17,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/program/17/?format=json",
+                            "name": "International Space Station",
+                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                            "agencies": [
+                                {
+                                    "id": 16,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/16/?format=json",
+                                    "name": "Canadian Space Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 27,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/27/?format=json",
+                                    "name": "European Space Agency",
+                                    "type": "Multinational"
+                                },
+                                {
+                                    "id": 37,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/37/?format=json",
+                                    "name": "Japan Aerospace Exploration Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 44,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 63,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/63/?format=json",
+                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                                    "type": "Government"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                            "start_date": "1998-11-20T06:40:00Z",
+                            "end_date": null,
+                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme",
+                            "mission_patches": []
+                        },
+                        {
+                            "id": 11,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/program/11/?format=json",
+                            "name": "Commercial Resupply Services",
+                            "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
+                            "agencies": [
+                                {
+                                    "id": 44,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 257,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/257/?format=json",
+                                    "name": "Northrop Grumman Space Systems",
+                                    "type": "Commercial"
+                                },
+                                {
+                                    "id": 1020,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/1020/?format=json",
+                                    "name": "Sierra Nevada Corporation",
+                                    "type": "Commercial"
+                                },
+                                {
+                                    "id": 121,
+                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/121/?format=json",
+                                    "name": "SpaceX",
+                                    "type": "Commercial"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20201129212219.png",
+                            "start_date": "2008-12-23T00:00:00Z",
+                            "end_date": null,
+                            "info_url": null,
+                            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services",
+                            "mission_patches": []
+                        }
+                    ],
+                    "orbital_launch_attempt_count": 6334,
+                    "location_launch_attempt_count": 211,
+                    "pad_launch_attempt_count": 153,
+                    "agency_launch_attempt_count": 206,
+                    "orbital_launch_attempt_count_year": 164,
+                    "location_launch_attempt_count_year": 17,
+                    "pad_launch_attempt_count_year": 16,
+                    "agency_launch_attempt_count_year": 54
+                }
+            ],
+            "expeditions": [],
+            "spacestations": [
+                {
+                    "id": 4,
+                    "url": "https://lldev.thespacedevs.com/2.2.0/spacestation/4/?format=json",
+                    "name": "International Space Station",
+                    "status": {
+                        "id": 1,
+                        "name": "Active"
+                    },
+                    "founded": "1998-11-20",
+                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
+                    "orbit": "Low Earth Orbit",
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
+                }
+            ],
+            "program": [
+                {
+                    "id": 17,
+                    "url": "https://lldev.thespacedevs.com/2.2.0/program/17/?format=json",
+                    "name": "International Space Station",
+                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                    "agencies": [
+                        {
+                            "id": 16,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/16/?format=json",
+                            "name": "Canadian Space Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 27,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/27/?format=json",
+                            "name": "European Space Agency",
+                            "type": "Multinational"
+                        },
+                        {
+                            "id": 37,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/37/?format=json",
+                            "name": "Japan Aerospace Exploration Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 44,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
+                            "name": "National Aeronautics and Space Administration",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 63,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/63/?format=json",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "type": "Government"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                    "start_date": "1998-11-20T06:40:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme",
+                    "mission_patches": []
+                },
+                {
+                    "id": 11,
+                    "url": "https://lldev.thespacedevs.com/2.2.0/program/11/?format=json",
+                    "name": "Commercial Resupply Services",
+                    "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
+                    "agencies": [
+                        {
+                            "id": 44,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
+                            "name": "National Aeronautics and Space Administration",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 257,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/257/?format=json",
+                            "name": "Northrop Grumman Space Systems",
+                            "type": "Commercial"
+                        },
+                        {
+                            "id": 1020,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/1020/?format=json",
+                            "name": "Sierra Nevada Corporation",
+                            "type": "Commercial"
+                        },
+                        {
+                            "id": 121,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/121/?format=json",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20201129212219.png",
+                    "start_date": "2008-12-23T00:00:00Z",
+                    "end_date": null,
+                    "info_url": null,
+                    "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services",
+                    "mission_patches": []
+                }
+            ]
+        },
+        {
+            "id": 708,
+            "url": "https://lldev.thespacedevs.com/2.2.0/event/708/?format=json",
+            "slug": "spaceport-esrange-inauguration",
+            "name": "Spaceport Esrange Inauguration",
             "updates": [],
             "type": {
                 "id": 20,
                 "name": "Press Event"
             },
-            "description": "NASA will hold a media briefing to discuss its ongoing Artemis I mission, particularly Orion’s distant retrograde orbit departure on Dec. 1 and recovery assets preparations for Dec. 11 splashdown in the Pacific Ocean.",
+            "description": "Officials from Sweden and the EU Commission will visit Europe's first mainland spaceport, Spaceport Esrange to cut the ribbon.",
             "webcast_live": false,
-            "location": null,
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/artemis_i_statu_image_20221125181317.jpeg",
-            "date": "2022-11-30T22:00:00Z",
-            "launches": [
-                {
-                    "id": "65896761-b6ca-4df3-9699-e077a360c52a",
-                    "url": "https://lldev.thespacedevs.com/2.2.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/?format=json",
-                    "slug": "sls-block-1-artemis-i",
-                    "name": "SLS Block 1 | Artemis I",
-                    "status": {
-                        "id": 3,
-                        "name": "Launch Successful",
-                        "abbrev": "Success",
-                        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-                    },
-                    "last_updated": "2022-11-29T00:39:26Z",
-                    "net": "2022-11-16T06:47:44Z",
-                    "window_end": "2022-11-16T08:04:00Z",
-                    "window_start": "2022-11-16T06:04:00Z",
-                    "probability": 90,
-                    "holdreason": "",
-                    "failreason": "",
-                    "hashtag": null,
-                    "launch_service_provider": {
-                        "id": 44,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                        "name": "National Aeronautics and Space Administration",
-                        "type": "Government"
-                    },
-                    "rocket": {
-                        "id": 150,
-                        "configuration": {
-                            "id": 143,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/config/launcher/143/?format=json",
-                            "name": "Space Launch System (SLS)",
-                            "family": "Space Launch System",
-                            "full_name": "Space Launch System Block 1",
-                            "variant": "Block 1"
-                        }
-                    },
-                    "mission": {
-                        "id": 688,
-                        "name": "Artemis I",
-                        "description": "Artemis I (previously Exploration Mission 1) is the first flight on Space Launch System and the second flight of Orion crew spacecraft. Mission is planned to be an uncrewed circumlunar flight.",
-                        "launch_designator": null,
-                        "type": "Human Exploration",
-                        "orbit": {
-                            "id": 11,
-                            "name": "Lunar Orbit",
-                            "abbrev": "LO"
-                        }
-                    },
-                    "pad": {
-                        "id": 4,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/pad/4/?format=json",
-                        "agency_id": 44,
-                        "name": "Launch Complex 39B",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B",
-                        "map_url": "http://maps.google.com/maps?q=28.627+N,+80.621+W",
-                        "latitude": "28.62711233",
-                        "longitude": "-80.62101503",
-                        "location": {
-                            "id": 27,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/location/27/?format=json",
-                            "name": "Kennedy Space Center, FL, USA",
-                            "country_code": "USA",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 211,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_4_20200803143518.jpg",
-                        "total_launch_count": 58,
-                        "orbital_launch_attempt_count": 57
-                    },
-                    "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
-                    "infographic": null,
-                    "program": [
-                        {
-                            "id": 15,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                            "name": "Artemis",
-                            "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
-                            "agencies": [
-                                {
-                                    "id": 44,
-                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                            "start_date": "2017-12-11T00:00:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/specials/artemis/",
-                            "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
-                            "mission_patches": []
-                        }
-                    ],
-                    "orbital_launch_attempt_count": 6331,
-                    "location_launch_attempt_count": 210,
-                    "pad_launch_attempt_count": 58,
-                    "agency_launch_attempt_count": 135,
-                    "orbital_launch_attempt_count_year": 161,
-                    "location_launch_attempt_count_year": 16,
-                    "pad_launch_attempt_count_year": 1,
-                    "agency_launch_attempt_count_year": 1
-                }
-            ],
+            "location": "Spaceport Esrange, Sweden",
+            "news_url": "https://sscspace.com/inauguration-of-mainland-europes-first-satellite-launch-complex/",
+            "video_url": null,
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spaceport_esran_image_20221225143213.jpeg",
+            "date": "2023-01-13T00:00:00Z",
+            "launches": [],
             "expeditions": [],
             "spacestations": [],
-            "program": [
-                {
-                    "id": 15,
-                    "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                    "name": "Artemis",
-                    "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
-                    "agencies": [
-                        {
-                            "id": 44,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                    "start_date": "2017-12-11T00:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/specials/artemis/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
-                    "mission_patches": []
-                }
-            ]
+            "program": []
         },
         {
-            "id": 696,
-            "url": "https://lldev.thespacedevs.com/2.2.0/event/696/?format=json",
-            "slug": "artemis-i-orion-distant-retrograde-orbit-departure",
-            "name": "Artemis I Orion Distant Retrograde Orbit Departure Burn",
-            "updates": [],
-            "type": {
-                "id": 6,
-                "name": "Spacecraft Event"
-            },
-            "description": "NASA will livestream coverage of the distant retrograde orbit departure burn near the Moon by the Artemis I Orion spacecraft.",
-            "webcast_live": false,
-            "location": "Lunar Orbit",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/artemis_i_orion_image_20221128163652.jpg",
-            "date": "2022-12-01T21:54:00Z",
-            "launches": [
-                {
-                    "id": "65896761-b6ca-4df3-9699-e077a360c52a",
-                    "url": "https://lldev.thespacedevs.com/2.2.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/?format=json",
-                    "slug": "sls-block-1-artemis-i",
-                    "name": "SLS Block 1 | Artemis I",
-                    "status": {
-                        "id": 3,
-                        "name": "Launch Successful",
-                        "abbrev": "Success",
-                        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-                    },
-                    "last_updated": "2022-11-29T00:39:26Z",
-                    "net": "2022-11-16T06:47:44Z",
-                    "window_end": "2022-11-16T08:04:00Z",
-                    "window_start": "2022-11-16T06:04:00Z",
-                    "probability": 90,
-                    "holdreason": "",
-                    "failreason": "",
-                    "hashtag": null,
-                    "launch_service_provider": {
-                        "id": 44,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                        "name": "National Aeronautics and Space Administration",
-                        "type": "Government"
-                    },
-                    "rocket": {
-                        "id": 150,
-                        "configuration": {
-                            "id": 143,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/config/launcher/143/?format=json",
-                            "name": "Space Launch System (SLS)",
-                            "family": "Space Launch System",
-                            "full_name": "Space Launch System Block 1",
-                            "variant": "Block 1"
-                        }
-                    },
-                    "mission": {
-                        "id": 688,
-                        "name": "Artemis I",
-                        "description": "Artemis I (previously Exploration Mission 1) is the first flight on Space Launch System and the second flight of Orion crew spacecraft. Mission is planned to be an uncrewed circumlunar flight.",
-                        "launch_designator": null,
-                        "type": "Human Exploration",
-                        "orbit": {
-                            "id": 11,
-                            "name": "Lunar Orbit",
-                            "abbrev": "LO"
-                        }
-                    },
-                    "pad": {
-                        "id": 4,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/pad/4/?format=json",
-                        "agency_id": 44,
-                        "name": "Launch Complex 39B",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B",
-                        "map_url": "http://maps.google.com/maps?q=28.627+N,+80.621+W",
-                        "latitude": "28.62711233",
-                        "longitude": "-80.62101503",
-                        "location": {
-                            "id": 27,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/location/27/?format=json",
-                            "name": "Kennedy Space Center, FL, USA",
-                            "country_code": "USA",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 211,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_4_20200803143518.jpg",
-                        "total_launch_count": 58,
-                        "orbital_launch_attempt_count": 57
-                    },
-                    "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
-                    "infographic": null,
-                    "program": [
-                        {
-                            "id": 15,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                            "name": "Artemis",
-                            "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
-                            "agencies": [
-                                {
-                                    "id": 44,
-                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                            "start_date": "2017-12-11T00:00:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/specials/artemis/",
-                            "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
-                            "mission_patches": []
-                        }
-                    ],
-                    "orbital_launch_attempt_count": 6331,
-                    "location_launch_attempt_count": 210,
-                    "pad_launch_attempt_count": 58,
-                    "agency_launch_attempt_count": 135,
-                    "orbital_launch_attempt_count_year": 161,
-                    "location_launch_attempt_count_year": 16,
-                    "pad_launch_attempt_count_year": 1,
-                    "agency_launch_attempt_count_year": 1
-                }
-            ],
-            "expeditions": [],
-            "spacestations": [],
-            "program": [
-                {
-                    "id": 15,
-                    "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                    "name": "Artemis",
-                    "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
-                    "agencies": [
-                        {
-                            "id": 44,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                    "start_date": "2017-12-11T00:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/specials/artemis/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
-                    "mission_patches": []
-                }
-            ]
-        },
-        {
-            "id": 580,
-            "url": "https://lldev.thespacedevs.com/2.2.0/event/580/?format=json",
-            "slug": "us-eva-82",
-            "name": "US EVA-82",
+            "id": 349,
+            "url": "https://lldev.thespacedevs.com/2.2.0/event/349/?format=json",
+            "slug": "russian-eva-56",
+            "name": "Russian EVA-56",
             "updates": [
                 {
-                    "id": 2840,
+                    "id": 3001,
                     "profile_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-                    "comment": "Updated start of EVA time",
+                    "comment": "Updated start of EVA time.",
                     "info_url": "https://www.nasa.gov/multimedia/nasatv/schedule.html",
                     "created_by": "Cosmic_Penguin",
-                    "created_on": "2022-11-18T00:37:36Z"
+                    "created_on": "2022-12-12T09:42:51Z"
                 }
             ],
             "type": {
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "Two astronauts will venture in space from the Quest airlock to install an IROSA (ISS Rollout Solar Array) on the Starboard 4 Truss of the International Space Station",
+            "description": "ROSCOSMOS cosmonauts Sergey Prokopyev and Dmitriy Petelin will exit the International Space Station to transfer the radiation heat exchanger from the Rassvet module to the MLM Nauka module.",
             "webcast_live": false,
             "location": "International Space Station",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-82_image_20220527103617.jpg",
-            "date": "2022-12-03T12:25:00Z",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-56_image_20210922170722.jpeg",
+            "date": "2023-01-31T00:00:00Z",
             "launches": [],
-            "expeditions": [
-                {
-                    "id": 147,
-                    "url": "https://lldev.thespacedevs.com/2.2.0/expedition/147/?format=json",
-                    "name": "Expedition 67",
-                    "start": "2022-03-30T07:21:00Z",
-                    "end": "2022-09-28T13:35:00Z",
-                    "spacestation": {
-                        "id": 4,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/spacestation/4/?format=json",
-                        "name": "International Space Station",
-                        "status": {
-                            "id": 1,
-                            "name": "Active"
-                        },
-                        "orbit": "Low Earth Orbit",
-                        "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
-                    },
-                    "mission_patches": [
-                        {
-                            "id": 621,
-                            "name": "Expedition 67 Patch",
-                            "priority": 10,
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition2520_mission_patch_20220330073231.png",
-                            "agency": {
-                                "id": 44,
-                                "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                                "name": "National Aeronautics and Space Administration",
-                                "type": "Government"
-                            }
-                        }
-                    ]
-                }
-            ],
+            "expeditions": [],
             "spacestations": [
                 {
                     "id": 4,
@@ -425,171 +403,112 @@
             ]
         },
         {
-            "id": 694,
-            "url": "https://lldev.thespacedevs.com/2.2.0/event/694/?format=json",
-            "slug": "artemis-i-status-update-13",
-            "name": "Artemis I Status Update #13",
-            "updates": [],
-            "type": {
-                "id": 20,
-                "name": "Press Event"
-            },
-            "description": "NASA will hold a media briefing to discuss its ongoing Artemis I mission, particularly Orion’s return powered flyby of the Moon and decisions to deploy recovery assets to sea.",
-            "webcast_live": false,
-            "location": null,
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/artemis_i_statu_image_20221125181128.jpeg",
-            "date": "2022-12-05T22:00:00Z",
-            "launches": [
+            "id": 350,
+            "url": "https://lldev.thespacedevs.com/2.2.0/event/350/?format=json",
+            "slug": "russian-eva-57",
+            "name": "Russian EVA-57",
+            "updates": [
                 {
-                    "id": "65896761-b6ca-4df3-9699-e077a360c52a",
-                    "url": "https://lldev.thespacedevs.com/2.2.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/?format=json",
-                    "slug": "sls-block-1-artemis-i",
-                    "name": "SLS Block 1 | Artemis I",
-                    "status": {
-                        "id": 3,
-                        "name": "Launch Successful",
-                        "abbrev": "Success",
-                        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-                    },
-                    "last_updated": "2022-11-29T00:39:26Z",
-                    "net": "2022-11-16T06:47:44Z",
-                    "window_end": "2022-11-16T08:04:00Z",
-                    "window_start": "2022-11-16T06:04:00Z",
-                    "probability": 90,
-                    "holdreason": "",
-                    "failreason": "",
-                    "hashtag": null,
-                    "launch_service_provider": {
-                        "id": 44,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                        "name": "National Aeronautics and Space Administration",
-                        "type": "Government"
-                    },
-                    "rocket": {
-                        "id": 150,
-                        "configuration": {
-                            "id": 143,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/config/launcher/143/?format=json",
-                            "name": "Space Launch System (SLS)",
-                            "family": "Space Launch System",
-                            "full_name": "Space Launch System Block 1",
-                            "variant": "Block 1"
-                        }
-                    },
-                    "mission": {
-                        "id": 688,
-                        "name": "Artemis I",
-                        "description": "Artemis I (previously Exploration Mission 1) is the first flight on Space Launch System and the second flight of Orion crew spacecraft. Mission is planned to be an uncrewed circumlunar flight.",
-                        "launch_designator": null,
-                        "type": "Human Exploration",
-                        "orbit": {
-                            "id": 11,
-                            "name": "Lunar Orbit",
-                            "abbrev": "LO"
-                        }
-                    },
-                    "pad": {
-                        "id": 4,
-                        "url": "https://lldev.thespacedevs.com/2.2.0/pad/4/?format=json",
-                        "agency_id": 44,
-                        "name": "Launch Complex 39B",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B",
-                        "map_url": "http://maps.google.com/maps?q=28.627+N,+80.621+W",
-                        "latitude": "28.62711233",
-                        "longitude": "-80.62101503",
-                        "location": {
-                            "id": 27,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/location/27/?format=json",
-                            "name": "Kennedy Space Center, FL, USA",
-                            "country_code": "USA",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 211,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_4_20200803143518.jpg",
-                        "total_launch_count": 58,
-                        "orbital_launch_attempt_count": 57
-                    },
-                    "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
-                    "infographic": null,
-                    "program": [
-                        {
-                            "id": 15,
-                            "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                            "name": "Artemis",
-                            "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
-                            "agencies": [
-                                {
-                                    "id": 44,
-                                    "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                            "start_date": "2017-12-11T00:00:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/specials/artemis/",
-                            "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
-                            "mission_patches": []
-                        }
-                    ],
-                    "orbital_launch_attempt_count": 6331,
-                    "location_launch_attempt_count": 210,
-                    "pad_launch_attempt_count": 58,
-                    "agency_launch_attempt_count": 135,
-                    "orbital_launch_attempt_count_year": 161,
-                    "location_launch_attempt_count_year": 16,
-                    "pad_launch_attempt_count_year": 1,
-                    "agency_launch_attempt_count_year": 1
+                    "id": 3002,
+                    "profile_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+                    "comment": "Updated start of EVA time.",
+                    "info_url": "https://www.nasa.gov/multimedia/nasatv/schedule.html",
+                    "created_by": "Cosmic_Penguin",
+                    "created_on": "2022-12-12T09:48:17Z"
                 }
             ],
+            "type": {
+                "id": 3,
+                "name": "EVA"
+            },
+            "description": "ROSCOSMOS cosmonauts Sergey Prokopyev and Dmitriy Petelin will exit the International Space Station to install and connect the airlock and radiation heat exchanger on the MLM Nauka.",
+            "webcast_live": false,
+            "location": "International Space Station",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-57_image_20210922170936.jpeg",
+            "date": "2023-01-31T00:00:00Z",
+            "launches": [],
             "expeditions": [],
-            "spacestations": [],
+            "spacestations": [
+                {
+                    "id": 4,
+                    "url": "https://lldev.thespacedevs.com/2.2.0/spacestation/4/?format=json",
+                    "name": "International Space Station",
+                    "status": {
+                        "id": 1,
+                        "name": "Active"
+                    },
+                    "founded": "1998-11-20",
+                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
+                    "orbit": "Low Earth Orbit",
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
+                }
+            ],
             "program": [
                 {
-                    "id": 15,
-                    "url": "https://lldev.thespacedevs.com/2.2.0/program/15/?format=json",
-                    "name": "Artemis",
-                    "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing 'the first woman and the next man' on the Moon, specifically at the lunar south pole region by 2024.",
+                    "id": 17,
+                    "url": "https://lldev.thespacedevs.com/2.2.0/program/17/?format=json",
+                    "name": "International Space Station",
+                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
+                        {
+                            "id": 16,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/16/?format=json",
+                            "name": "Canadian Space Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 27,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/27/?format=json",
+                            "name": "European Space Agency",
+                            "type": "Multinational"
+                        },
+                        {
+                            "id": 37,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/37/?format=json",
+                            "name": "Japan Aerospace Exploration Agency",
+                            "type": "Government"
+                        },
                         {
                             "id": 44,
                             "url": "https://lldev.thespacedevs.com/2.2.0/agencies/44/?format=json",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
+                        },
+                        {
+                            "id": 63,
+                            "url": "https://lldev.thespacedevs.com/2.2.0/agencies/63/?format=json",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "type": "Government"
                         }
                     ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20220827100930.png",
-                    "start_date": "2017-12-11T00:00:00Z",
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                    "start_date": "1998-11-20T06:40:00Z",
                     "end_date": null,
-                    "info_url": "https://www.nasa.gov/specials/artemis/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program",
+                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme",
                     "mission_patches": []
                 }
             ]
         },
         {
-            "id": 349,
-            "url": "https://lldev.thespacedevs.com/2.2.0/event/349/?format=json",
-            "slug": "russian-eva-56",
-            "name": "Russian EVA-56",
+            "id": 353,
+            "url": "https://lldev.thespacedevs.com/2.2.0/event/353/?format=json",
+            "slug": "russian-eva-58",
+            "name": "Russian EVA-58",
             "updates": [],
             "type": {
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "ROSCOSMOS cosmonauts Sergey Prokopyev and Dmitriy Petelin will exit the International Space Station to transfer the radiation heat exchanger from the Rassvet module to the MLM Nauka module.",
+            "description": "ROSCOSMOS cosmonauts Sergey Prokopyev and Dmitriy Petelin will perform an EVA outside the International Space Station.",
             "webcast_live": false,
             "location": "International Space Station",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-56_image_20210922170722.jpeg",
-            "date": "2022-12-06T00:00:00Z",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-58_image_20210922172154.jpeg",
+            "date": "2023-01-31T00:00:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [
